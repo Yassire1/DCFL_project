@@ -1,0 +1,92 @@
+[
+  {
+    "key": "Q7IIMZF5",
+    "title": "Multi-modal collaborative learning with vision foundation model prompt boosts 3D semi-supervised semantic segmentation",
+    "note": "Computer vision: 3D semantic segmentation with vision FM; no FL, TS, or PdM"
+  },
+  {
+    "key": "788FV6CL",
+    "title": "The Emergence of Foundation Models in U.S. Radiology: A Narrative Review of Clinical Utility, Safety, and Evaluation",
+    "note": "Medical imaging: FM in radiology review; no TS or PdM"
+  },
+  {
+    "key": "HUTBGGJH",
+    "title": "Advancing Medical Imaging Research Through Standardization",
+    "note": "Medical imaging standardization: FL and FM mentioned as potential benefits only, not core contribution"
+  },
+  {
+    "key": "BMHQCSWB",
+    "title": "Hybrid foundation models: An investigation of foundation anatomy model and foundation segmentation model (FAM-FSM) on thoracic CT images",
+    "note": "Medical imaging: hybrid FM for CT segmentation; explicitly states not using FL"
+  },
+  {
+    "key": "VGVVIS9W",
+    "title": "Foundation model-guided multi-view semi-supervised CT segmentation of liver tumors",
+    "note": "Medical imaging: CT segmentation with FM guidance; no FL, TS, or PdM"
+  },
+  {
+    "key": "3785UEX5",
+    "title": "FL@FM-TheWebConf'25: International Workshop on Federated Foundation Models for the Web",
+    "note": "Workshop description: no research contribution"
+  },
+  {
+    "key": "IW83CFJH",
+    "title": "Deep learning advancements for cardiovascular diseases (CVDs) diagnosis",
+    "note": "Medical imaging: DL for cardiovascular disease; FL and FM mentioned only as future directions"
+  },
+  {
+    "key": "IEITAHG9",
+    "title": "2025 International Conference on Cybersecurity and AI-Based Systems, Cyber-AI 2025",
+    "note": "Conference proceedings: not a single research paper"
+  },
+  {
+    "key": "XJ9AK6DQ",
+    "title": "Semi-supervised Fine-tuning for Large Language Models",
+    "note": "NLP: semi-supervised LLM fine-tuning; no FL, TS, or PdM"
+  },
+  {
+    "key": "Y3HZQB62",
+    "title": "Advanced deep learning and large language models: Comprehensive insights for cancer detection",
+    "note": "Medical AI: DL/LLM for cancer detection; FL mentioned only in techniques overview"
+  },
+  {
+    "key": "IXPRHPAD",
+    "title": "Enabling Privacy-Preserving and Drop-Out Resilient Federated LLM Fine-Tuning for Low-Altitude UAV Swarm Networks",
+    "note": "FL + LLM: federated LLM fine-tuning for UAV swarms; no TS or PdM"
+  },
+  {
+    "key": "2B5QFM4D",
+    "title": "Parameter-Efficient Fine-Tuning of LLMs for Low-Power Sentiment Analysis Applications",
+    "note": "NLP: LoRA fine-tuning for sentiment analysis; no FL, TS, or PdM"
+  },
+  {
+    "key": "5YRJI4AV",
+    "title": "REVOLUTIONIZING HEALTHCARE WITH LARGE LANGUAGE MODELS",
+    "note": "Healthcare LLM review: FL mentioned only as future direction; no TS or PdM"
+  },
+  {
+    "key": "3NV84SZE",
+    "title": "FedLMA: A Federated Learning Framework Integrating LLM-Based Multi-Agent Reasoning With Knowledge Distillation",
+    "note": "FL + LLM: multi-agent FL with knowledge distillation; no TS or PdM"
+  },
+  {
+    "key": "9F3F6G8A",
+    "title": "A survey on privacy risks and protection in large language models",
+    "note": "LLM privacy: FL mentioned as one protection method; no TS or PdM"
+  },
+  {
+    "key": "FRI49JAH",
+    "title": "A Novel Approach to Efficient Multilabel Text Classification: BERT-Federated Learning Fusion",
+    "note": "FL + NLP: BERT with FL for text classification; no TS or PdM"
+  },
+  {
+    "key": "NMVBSWEM",
+    "title": "A Taxonomy and Resolution Strategy for Client-Level Disagreements in Federated Learning",
+    "note": "FL only (1 core): FL client disagreements taxonomy; N-CMAPSS used only as evaluation dataset, not PdM focus"
+  },
+  {
+    "key": "XQ8GTLKL",
+    "title": "Proceedings - 2022 International Conference on Advanced Computing and Analytics, ACOMPA 2022",
+    "note": "Conference proceedings: not a single research paper"
+  }
+]

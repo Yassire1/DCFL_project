@@ -1,0 +1,27 @@
+[
+  {
+    "key": "X7QVR6E5",
+    "title": "Metadata-enhanced contrastive learning from retinal optical coherence tomography images",
+    "note": "Medical image analysis (retinal OCT). Contrastive learning on longitudinal images, not time series foundation models or TS analysis."
+  },
+  {
+    "key": "CGDTIBLV",
+    "title": "Decoding the Digital Pulse: Bibliometric Analysis of 25 Years in Digital Health Research Through the Journal of Medical Internet Research",
+    "note": "Bibliometric analysis of digital health publications. Mentions Google's TSFM as a prediction tool but no FM application or TS analysis."
+  },
+  {
+    "key": "M2YZ72QI",
+    "title": "Advancing video self-supervised learning via image foundation models",
+    "note": "Video self-supervised learning using image foundation models (IFMs). No time series analysis or TS foundation models."
+  },
+  {
+    "key": "TG8TKT2N",
+    "title": "Multi-Modal Longitudinal Representation Learning for Predicting Neoadjuvant Therapy Response in Breast Cancer Treatment",
+    "note": "Medical imaging for breast cancer treatment response prediction. Temporal foundation model for longitudinal medical images, not industrial time series."
+  },
+  {
+    "key": "PWLCNU8V",
+    "title": "Using Machine Learning to Optimize Resource Allocation and Management Strategies in Colleges and Universities",
+    "note": "Education resource management using ML. No foundation models, no time series analysis in relevant domain, no FL or PdM."
+  }
+]

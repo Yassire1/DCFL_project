@@ -1,0 +1,67 @@
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,Search Engine,Query ID,Search Query,Search Date,Found Papers (Count),Time Range Start Year,Time Range End Year,Relevance Check (Completed)
+,,,,IEEE Xplore,1,"(""Predictive Maintenance"" OR ""Condition Monitoring"") AND (""Federated Learning"" OR ""Colaborative Learning"")",10/03/2026,339,2017,2026,FALSE
+,,,,IEEE Xplore,2,"(""Time series"" OR ""sensor data"") AND (""foundation models"" OR ""foundation model"")",10/03/2026,239,2023,2026,FALSE
+,,,,IEEE Xplore,3,"(""federated learning"" OR ""federated machine learning"" OR ""collaborative learning"") AND (""foundation model"" OR ""foundation models"" OR ""large pretrained model"")",10/03/2026,171,2023,2026,FALSE
+,,,,IEEE Xplore,4,"(""federated learning"" OR ""collaborative learning"") AND (""foundation model"" OR ""large pretrained model"") AND (""time series"" OR ""temporal data"")",10/03/2026,14,2024,2026,FALSE
+,,,,IEEE Xplore,5,"(""federated learning"" OR ""collaborative learning"")
+AND
+(""time series foundation model"" OR ""time series transformer"" OR ""large time series model"")",10/03/2026,5,2024,2025,FALSE
+,,,,IEEE Xplore,6,"(""federated learning"" OR ""collaborative learning"")
+AND
+(""foundation model"" OR ""large pretrained model"")
+AND
+(""predictive maintenance"" OR ""condition monitoring"" OR ""fault diagnosis"" or ""health management systems"")",10/03/2026,6,2024,2026,FALSE
+,,,,IEEE Xplore,7,"(""Federated Learning"" OR ""Collaborative Learning"")
+AND
+(""Time Series"" OR ""Time Series Forecasting"")",10/03/2026,697,2019,2026,FALSE
+,,,,IEEE Xplore,8,"(""Federated Learning"" OR ""Collaborative Learning"")
+AND
+(""Foundation Model"" OR ""Foundation Models"" OR ""Large Language Models"")
+AND
+(""Time Series"" OR ""Time Series Forecasting"")
+AND
+(""Predictive Maintenance"" OR ""Fault Diagnosis"")",10/03/2026,4,2022,2026,FALSE
+,,,,IEEE Xplore,9,"(""Federated Learning"" OR ""Collaborative Learning"")
+AND
+(""Foundation Model"" OR ""Foundation Models"" OR ""Large Language Models"")
+AND
+(""Transfer Learning"" OR ""Knowledge Transfer"" OR ""Domain Adaptation"")",10/03/2026,75,2023,2026,FALSE
+,,,,IEEE Xplore,10,"(""Federated Learning"" OR ""Collaborative Learning"")
+AND
+(""Time Series"" OR ""Time Series Forecasting"")
+AND
+(""Transfer Learning"" OR ""Knowledge Transfer"" OR ""Domain Adaptation"")",10/03/2026,42,2023,2026,FALSE
+,,,,IEEE Xplore,11,"(""Federated Learning"" OR ""Collaborative Learning"")
+AND
+(""Foundation Model"" OR ""Foundation Models"" OR ""Large Language Models"")
+AND
+(""Time Series"" OR ""Time Series Forecasting"")
+AND
+(""Transfer Learning"" OR ""Knowledge Transfer"" OR ""Domain Adaptation"")",10/03/2026,7,2020,2026,FALSE
+,,,,IEEE Xplore,12,"(""Federated Learning"" OR ""Collaborative Learning"")
+AND
+(""Predictive Maintenance"" OR ""Fault Diagnosis"")
+AND
+(""Industrial Systems"" OR ""Smart Manufacturing"" OR ""IIoT"")",10/03/2026,124,2018,2026,FALSE
+,,,,IEEE Xplore,13,"(""Foundation Model"" OR ""Foundation Models"" OR ""Large Language Models"") AND (""Predictive Maintenance"" OR ""Fault Diagnosis"" OR ""Remaining Useful Life"" OR ""Health Management System"")",10/03/2026,323,2023,2026,FALSE
+,,,,IEEE Xplore,14,"(""Foundation Model"" OR ""Foundation Models"" OR ""Large Language Models"") AND (""Predictive Maintenance"" OR ""Fault Diagnosis"" OR ""Remaining Useful Life"" OR ""Health Management System"") AND (""Time Series"" OR ""Time Series Forecasting"")",10/03/2026,49,2019,2026,FALSE
+,,,,IEEE Xplore,15,"(""Foundation Model"" OR ""Foundation Models"" OR ""Large Language Models"") AND (""Predictive Maintenance"" OR ""Fault Diagnosis"" OR ""Remaining Useful Life"" OR ""Health Management System"") AND (""Transfer Learning"" OR ""Knowledge Transfer"" OR ""Domain Adaptation"")",10/03/2026,30,2021,2026,FALSE
+,,,,IEEE Xplore,16,"(""Foundation Model"" OR ""Foundation Models"" OR ""Large Language Models"") AND (""Predictive Maintenance"" OR ""Fault Diagnosis"" OR ""Remaining Useful Life"" OR ""Health Management Sytem"") AND (""Time Series"" OR ""Time Series Forecasting"") AND (""Transfer Learning"" OR ""Knowledge Transfer"" OR ""Domain Adaptation"")",10/03/2026,11,2017,2026,FALSE
+,,,,Scopus,1,Q1,03/03/2026,256,2020,2026,FALSE
+,,,,Scopus,2,Q2,09/03/2026,4,2020,2026,FALSE
+,,,,Scopus,1,Q3,09/03/2026,19,2020,2026,FALSE
+,,,,Scopus,2,Q4,02/03/2026,311,2022,2026,FALSE
+,,,,Scopus,2,Q5,08/03/2026,3,2018,2026,FALSE
+,,,,Scopus,2,Q6,08/03/2026,0,2018,2026,FALSE
+,,,,Scopus,3,Q7,01/03/2026,279,2015,2026,FALSE
+,,,,Scopus,3,Q8,07/03/2026,793,2023,2026,FALSE
+,,,,Scopus,4,Q9,06/03/2026,0,2019,2026,FALSE
+,,,,Scopus,5,Q10,05/03/2026,116,2021,2026,FALSE
+,,,,Scopus,6,Q11,04/03/2026,56,2017,2026,FALSE
+,,,,Scopus,7,Q12,03/03/2026,3,2020,2026,FALSE
+,,,,Scopus,8,Q13,02/03/2026,81,2022,2026,FALSE
+,,,,Scopus,9,Q14,01/03/2026,304,2015,2026,FALSE
+,,,,Scopus,10,Q15,2026-02-29,8,2023,2026,FALSE
+,,,,Scopus,10,Q16,2026-02-29,33,2023,2026,FALSE

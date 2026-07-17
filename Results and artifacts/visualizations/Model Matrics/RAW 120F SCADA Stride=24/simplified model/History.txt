@@ -1,0 +1,5 @@
+Third Try :  ✅
+Loss function to : CategoricalCrossentropy
+use transformation only with the scaler on the test and validation sets
+use stride of 24
+Simplify the model architecture . 

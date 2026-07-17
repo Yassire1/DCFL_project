@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #FFFFFF; }
+body { width: 720pt; height: 405pt; margin: 0; padding: 0; background: #FFFFFF; font-family: Arial, sans-serif; display: flex; }
+.accent-bar { position: absolute; top: 0; left: 0; width: 100%; height: 3pt; background: #2D2D2D; }
+.container { margin: 0; padding: 32pt 50pt 25pt 50pt; width: 620pt; }
+.section-num { color: #999999; font-size: 11pt; margin: 0 0 4pt 0; letter-spacing: 2pt; }
+.section-title { color: #2D2D2D; font-size: 24pt; font-weight: bold; margin: 0 0 16pt 0; }
+.triangle-area { display: flex; align-items: center; justify-content: center; margin: 0 0 14pt 0; }
+.nodes { position: relative; width: 500pt; height: 130pt; }
+.node { position: absolute; background: #F5F5F5; border: 2pt solid #2D2D2D; border-radius: 8pt; padding: 8pt 12pt; text-align: center; }
+.node-title { color: #2D2D2D; font-size: 10pt; font-weight: bold; margin: 0; }
+.node-sub { color: #6B6B6B; font-size: 7.5pt; margin: 2pt 0 0 0; }
+.node-1 { top: 0; left: 20pt; }
+.node-2 { top: 0; right: 20pt; }
+.node-center { bottom: 0; left: 50%; transform: translateX(-50%); background: #2D2D2D; }
+.node-center .node-title { color: #FFFFFF; }
+.node-center .node-sub { color: #CCCCCC; }
+.proposal-box { background: #F5F5F5; border-left: 3pt solid #2D2D2D; padding: 10pt 14pt; margin: 0 0 14pt 0; }
+.proposal-text { color: #2D2D2D; font-size: 11pt; font-weight: bold; margin: 0; line-height: 1.35; }
+.changes { display: grid; grid-template-columns: 1fr 1fr; gap: 8pt; }
+.change-item { background: #FAFAFA; border: 1pt solid #E0E0E0; border-radius: 6pt; padding: 8pt 10pt; }
+.change-title { color: #4A90A4; font-size: 9pt; font-weight: bold; margin: 0 0 3pt 0; }
+.change-desc { color: #6B6B6B; font-size: 8pt; margin: 0; line-height: 1.3; }
+.footer { position: absolute; bottom: 16pt; left: 50pt; right: 50pt; color: #999999; font-size: 9pt; border-top: 1pt solid #E0E0E0; padding-top: 6pt; display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+<div class="accent-bar"></div>
+<div class="container">
+  <p class="section-num">Section 01 — Contexte Général</p>
+  <p class="section-title">Positionnement de la thèse</p>
+  <div class="triangle-area">
+    <div class="nodes">
+      <div class="node node-1"><p class="node-title">Federated Learning</p><p class="node-sub">Apprentissage distribué<br>données restent locales</p></div>
+      <div class="node node-2"><p class="node-title">Time Series Foundation Models</p><p class="node-sub">Modèles pré-entraînés<br>zero/few-shot adaptation</p></div>
+      <div class="node node-center"><p class="node-title">Maintenance Prédictive Multi-Domaine</p><p class="node-sub">Éolien + HVAC + Manufacture</p></div>
+    </div>
+  </div>
+  <div class="proposal-box">
+    <p class="proposal-text">Développer un framework basé sur des Foundation Models entraînés de façon fédérée sur des séries temporelles industrielles hétérogènes, capable de s'adapter à plusieurs domaines avec un minimum de personnalisation.</p>
+  </div>
+  <div class="changes">
+    <div class="change-item"><p class="change-title">Un seul modèle</p><p class="change-desc">Pour N domaines industriels différents</p></div>
+    <div class="change-item"><p class="change-title">Données locales</p><p class="change-desc">Aucune donnée brute ne quitte les sites</p></div>
+    <div class="change-item"><p class="change-title">Personnalisation légère</p><p class="change-desc">Fine-tuning local minimal</p></div>
+    <div class="change-item"><p class="change-title">Généralisation</p><p class="change-desc">Cross-domaine via pré-entraînement fédéré</p></div>
+  </div>
+</div>
+<div class="footer"><span>04</span><span>Rapport d'avancement de thèse — Y. AMMOURI</span></div>
+</body>
+</html>

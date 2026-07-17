@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #FFFFFF; }
+body { width: 720pt; height: 405pt; margin: 0; padding: 0; background: #FFFFFF; font-family: Arial, sans-serif; display: flex; }
+.accent-bar { position: absolute; top: 0; left: 0; width: 100%; height: 3pt; background: #2D2D2D; }
+.container { margin: 0; padding: 40pt 60pt 30pt 60pt; width: 600pt; }
+.section-num { color: #999999; font-size: 11pt; margin: 0 0 4pt 0; letter-spacing: 2pt; }
+.section-title { color: #2D2D2D; font-size: 24pt; font-weight: bold; margin: 0 0 20pt 0; }
+.target-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12pt; margin: 0 0 16pt 0; }
+.target-col { }
+.target-header { margin: 0 0 8pt 0; border-bottom: 1pt solid #E0E0E0; padding-bottom: 4pt; }
+.target-header p { color: #2D2D2D; font-size: 11pt; font-weight: bold; margin: 0; }
+.target-list { color: #6B6B6B; font-size: 9pt; line-height: 1.6; margin: 0; padding-left: 12pt; }
+.target-item { margin: 0 0 4pt 0; }
+.conf-row { display: flex; border-bottom: 1pt solid #E0E0E0; padding: 6pt 0; }
+.conf-label { width: 180pt; color: #2D2D2D; font-size: 10pt; font-weight: bold; }
+.conf-tier { flex: 1; color: #6B6B6B; font-size: 9pt; }
+.tier-badge { display: inline-block; padding: 2pt 6pt; border-radius: 3pt; font-size: 8pt; font-weight: bold; }
+.tier-q1 { background: #2D2D2D; color: #FFFFFF; }
+.tier-q2 { background: #6B6B6B; color: #FFFFFF; }
+.tier-conf { background: #E0E0E0; color: #2D2D2D; }
+.footer { position: absolute; bottom: 16pt; left: 60pt; right: 60pt; color: #999999; font-size: 9pt; border-top: 1pt solid #E0E0E0; padding-top: 6pt; display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+<div class="accent-bar"></div>
+<div class="container">
+  <p class="section-num">Section 06 — Stratégie de publication</p>
+  <p class="section-title">Conférences et Journaux Ciblés</p>
+  <div class="target-grid">
+    <div class="target-col">
+      <div class="target-header"><p>Journaux Scientifiques (Q1)</p></div>
+      <ul class="target-list">
+        <li class="target-item">IEEE Transactions on Industrial Informatics</li>
+        <li class="target-item">Renewable Energy (Elsevier)</li>
+        <li class="target-item">IEEE Transactions on Neural Networks</li>
+        <li class="target-item">Journal of Manufacturing Systems</li>
+      </ul>
+    </div>
+    <div class="target-col">
+      <div class="target-header"><p>Conférences Cibles</p></div>
+      <ul class="target-list">
+        <li class="target-item">NeurIPS (Foundation Models)</li>
+        <li class="target-item">ICML (Federated Learning)</li>
+        <li class="target-item">IEEE SmartGridComm</li>
+        <li class="target-item">ECAI (Europe)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="conf-row"><p class="conf-label">IEEE Transactions on Industrial Informatics</p><p class="conf-tier"><span class="tier-badge tier-q1">Q1</span></p></div>
+  <div class="conf-row"><p class="conf-label">Renewable Energy</p><p class="conf-tier"><span class="tier-badge tier-q1">Q1</span></p></div>
+  <div class="conf-row"><p class="conf-label">NeurIPS / ICML</p><p class="conf-tier"><span class="tier-badge tier-conf">Top Conf.</span></p></div>
+</div>
+<div class="footer"><span>20</span><span>Rapport d'avancement de thèse — Y. AMMOURI</span></div>
+</body>
+</html>

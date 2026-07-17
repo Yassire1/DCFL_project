@@ -1,0 +1,52 @@
+---------------------------------------------------------------------------------
+120+ SCADA dataset :
+     - Stride 4 
+     - Stride 24 
+Knowledge Based feature selected SCADA dataset :
+     - Stride 4 
+     - Stride 24 
+
+------------------- Experiments ----------------------------------------
+---------------------- Done -------------------------------
+First Try :  ✅
+Loss function to : CategoricalCrossentropy
+use transformation only with the scaler on the test and validation sets
+use stride of 24
+with class wieghts
+
+second try :  ✅
+Loss function to : CategoricalFocalCrossentropy
+use transformation only with the scaler on the test and validation sets
+use stride of 24
+No class weights
+
+Third Try :  ✅
+Loss function to : CategoricalCrossentropy
+use transformation only with the scaler on the test and validation sets
+use stride of 24
+Simplify the model architecture . 
+class wieghts
+
+
+Fourth Try :  ✅
+Loss function to : CategoricalCrossentropy
+use transformation only with the scaler on the test and validation sets
+use stride of 4
+Simplify the model architecture . 
+
+
+Fifth Try  : ✅
+Loss function to : CategoricalCrossentropy
+use transformation only with the scaler on the test and validation sets
+use stride of 24
+Simplify the model architecture . 
+class wieghts
+Knowledge Based Feature Selection
+
+--------------------- To-Do Experiments ------------------------------------------------
+
+- Post-Failure impact
+- class Consolidation Impact
+- statistical Features Selection
+- Downsampling 
+- Centralized Model benchmarking (cnn-lstm, random forrest, XGBoost...)

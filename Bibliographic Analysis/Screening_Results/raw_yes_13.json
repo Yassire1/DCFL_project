@@ -1,0 +1,555 @@
+[
+  {
+    "key": "WXNVBCBD",
+    "title": "Context is Key: A Benchmark for Forecasting with Essential Textual Information",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Benchmark evaluating time series foundation models (TSFMs) and LLM-based forecasters on TS forecasting with textual context"
+  },
+  {
+    "key": "24KVBGP6",
+    "title": "IMTS is Worth Time × Channel Patches: Visual Masked Autoencoders for Irregular Multivariate Time Series Prediction",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Visual MAE-based foundation model for irregular multivariate time series forecasting"
+  },
+  {
+    "key": "CG8W9ZXR",
+    "title": "DeepSketch: A Query Sketching Interface for Deep Time Series Similarity Search",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Foundation model trained for arbitrary distance measures enabling time series similarity search"
+  },
+  {
+    "key": "Y56TZNJZ",
+    "title": "Lightweight Online Adaption for Time Series Foundation Model Forecasts",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Lightweight online adaptation mechanism for time series foundation model forecasts"
+  },
+  {
+    "key": "9P54MZ4Y",
+    "title": "Generalisation Bounds of Zero-Shot Economic Forecasting Using Time Series Foundation Models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Zero-shot TSFMs (Chronos, TimeGPT, Moirai) for macroeconomic forecasting"
+  },
+  {
+    "key": "MAAD2B92",
+    "title": "LightGTS: A Lightweight General Time Series Forecasting Model",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Lightweight time series foundation model with periodical tokenization"
+  },
+  {
+    "key": "US4CU39V",
+    "title": "LENS: Large Pre-trained Transformer for Exploring Financial Time Series Regularities",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Pre-trained foundation model for financial time series analysis"
+  },
+  {
+    "key": "E8R84EDK",
+    "title": "Open In-Context Energy Management Platform",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Foundation models for energy management time series; provides dataset and simulator"
+  },
+  {
+    "key": "5APF64MV",
+    "title": "Leveraging saliency-based pre-trained foundation model representations to uncover breathing patterns in speech",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Wav2Vec2 foundation model for respiration time-series estimation from speech (biomedical domain)"
+  },
+  {
+    "key": "EN8YREBJ",
+    "title": "FOURIER HEAD: HELPING LARGE LANGUAGE MODELS LEARN COMPLEX PROBABILITY DISTRIBUTIONS",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Fourier head improves time series foundation model forecasting by 3.5% across 20 benchmarks"
+  },
+  {
+    "key": "LY5NSHRJ",
+    "title": "Efficient Personalized Adaptation for Physiological Signal Foundation Model",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "PhysioPFM framework for efficient personalization of TSFMs for physiological signals"
+  },
+  {
+    "key": "A78LTBT5",
+    "title": "Channel Normalization for Time Series Channel Identification",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Channel normalization method with prototypical variant for TS foundation models"
+  },
+  {
+    "key": "CUJTUYIX",
+    "title": "PERFORMANCE OF ZERO-SHOT TIME SERIES FOUNDATION MODELS ON CLOUD DATA",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Evaluation of zero-shot TSFMs on cloud computing time series data"
+  },
+  {
+    "key": "NCUC6KSQ",
+    "title": "GridFM: A Physics-Informed Foundation Model for Multi-Task Energy Forecasting Using Real-Time NYISO Data",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Physics-informed foundation model for multi-task power grid forecasting using Chronos/TimesFM/Moirai as base"
+  },
+  {
+    "key": "LPNI88UM",
+    "title": "SeqLink: A Robust Neural-ODE Architecture for Modelling Partially Observed Time Series",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Neural ODE-based foundation model for partially observed time series"
+  },
+  {
+    "key": "BP73CSS9",
+    "title": "WEFormer: Classification for physiological time series with small sample sizes based on wavelet decomposition and time series foundation models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Time series foundation model with frozen weights as feature extractor for physiological TS classification"
+  },
+  {
+    "key": "Q83I227E",
+    "title": "No One-Model-Fits-All: Uncovering Spatio-Temporal Forecasting Trade-offs with Graph Neural Networks and Foundation Models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Comparison of STGNNs vs TSFMs (Chronos, Moirai, TimesFM) for spatio-temporal forecasting"
+  },
+  {
+    "key": "EN8YH6AE",
+    "title": "The Elephant in the Room: Towards A Reliable Time-Series Anomaly Detection Benchmark",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "TSB-AD benchmark including foundation models for time-series anomaly detection"
+  },
+  {
+    "key": "5AUET3FR",
+    "title": "Time Series Language Model for descriptive caption generation",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "LLM-based time series foundation model (TSLM) for time series captioning"
+  },
+  {
+    "key": "HLDBM9GB",
+    "title": "Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "PLM-based foundation model (ISTS-PLM) for irregularly sampled time series analysis"
+  },
+  {
+    "key": "T84WVGBF",
+    "title": "Are Time-Indexed Foundation Models the Future of Time Series Imputation?",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Time-indexed foundation models (TabPFN-TS, MoTM) for zero-shot time series imputation"
+  },
+  {
+    "key": "7MESTQAZ",
+    "title": "A foundation model-based framework for unsupervised gaze anomaly detection",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "MOMENT time-series foundation model for gaze anomaly detection (education domain)"
+  },
+  {
+    "key": "EB22SAV7",
+    "title": "FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "LLM-based framework integrating TSFMs for few-shot spatio-temporal forecasting"
+  },
+  {
+    "key": "9PHI684P",
+    "title": "Towards a General Time Series Forecasting Model with Unified Representation and Adaptive Transfer",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "General TS forecasting model with decomposed frequency learning and time series register"
+  },
+  {
+    "key": "V7WDARU2",
+    "title": "Weather Foundation Model Enhanced Decentralized Photovoltaic Power Forecasting Through Spatio-temporal Knowledge Distillation",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Knowledge distillation from weather foundation models for PV power forecasting"
+  },
+  {
+    "key": "R62KMYVZ",
+    "title": "Seamless monitoring of stress levels leveraging a foundational model for time sequences",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "UniTS foundation model for physiological stress monitoring via anomaly detection (healthcare domain)"
+  },
+  {
+    "key": "64YZ5TCQ",
+    "title": "Decision-focused fine-tuning of time series foundation models for dispatchable feeder optimization",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Decision-focused fine-tuning of Moirai TSFM for energy dispatchable feeder optimization"
+  },
+  {
+    "key": "XNGG7U76",
+    "title": "Exploring Generalist Foundation Models for Time Series of Electrodermal Activity Data",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Evaluation of TSFMs (Chronos, MOMENT, TSMixer, Mantis) for EDA physiological time series"
+  },
+  {
+    "key": "T4ELSYXE",
+    "title": "Toward a Foundation Model for Time Series Data",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Self-supervised pre-training for multi-domain time series foundation model"
+  },
+  {
+    "key": "5J7JDMFL",
+    "title": "On the Regularization of Learnable Embeddings for Time Series Forecasting",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Regularization of learnable embeddings for TS foundation models and forecasting"
+  },
+  {
+    "key": "JNJ78ANJ",
+    "title": "Wind Power Forecasting Based on Large Time Series Model",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Moirai large time series model for wind power forecasting (few-shot and zero-shot)"
+  },
+  {
+    "key": "YQ7FFPAA",
+    "title": "Time-FLM: Universal large model for fed-batch process time series forecasting",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Domain-adaptive foundation model for fed-batch industrial process time series forecasting"
+  },
+  {
+    "key": "4DWA3WFJ",
+    "title": "Benchmarking a time-series foundation model (TimeGPT) for real-world forecasting applications",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "TimeGPT foundation model benchmarked for healthcare (ED arrivals) forecasting"
+  },
+  {
+    "key": "55IIVW7K",
+    "title": "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Repurposing LLMs as autoregressive time series foundation models"
+  },
+  {
+    "key": "2RLDBDQD",
+    "title": "Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Framework using TS foundation models to extract embeddings fused into LLM layers for forecasting"
+  },
+  {
+    "key": "9WRWCBID",
+    "title": "Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Sparse MoE enhancement of MOIRAI time series foundation model"
+  },
+  {
+    "key": "5QBYMCEP",
+    "title": "DAM: TOWARDS A FOUNDATION MODEL FOR TIME SERIES FORECASTING",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Universal time series foundation model with random sampling and continuous basis functions"
+  },
+  {
+    "key": "WZJEXXD5",
+    "title": "PowerPM: Foundation Model for Power Systems",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Foundation model for electricity time series with hierarchical/temporal encoders and self-supervised pre-training"
+  },
+  {
+    "key": "WE9YM2SI",
+    "title": "A vision foundation model-based method for large-scale forest disturbance mapping using time series Sentinel-1 SAR data",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "SAM-based vision foundation model adapted for time series SAR forest disturbance mapping"
+  },
+  {
+    "key": "DWAFRVAA",
+    "title": "AT4TS: Autotune for Time Series Foundation Models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Automated hyperparameter optimization for selective fine-tuning of TSFMs (Chronos, TTM)"
+  },
+  {
+    "key": "ALDCT44A",
+    "title": "A comparative study of time series foundation models for hand, foot, and mouth disease forecasting: TimesFM, Moirai, and traditional approaches",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Comparison of TSFMs (TimesFM, Moirai) for epidemiological time series forecasting"
+  },
+  {
+    "key": "44RD4DA8",
+    "title": "Are Time Series Foundation Models Ready for Vital Sign Forecasting in Healthcare?",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Evaluation of TSFMs for clinical vital sign time series forecasting"
+  },
+  {
+    "key": "JT27KY8C",
+    "title": "Deep learning foundation and pattern models: Challenges in hydrological time series",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Comparison of 20+ foundation/pattern models for hydrological time series analysis"
+  },
+  {
+    "key": "34WBS7IZ",
+    "title": "TIME-SERIES FORECASTING AND REFINEMENT WITHIN A MULTIMODAL PDE FOUNDATION MODEL",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Multimodal PDE foundation model with symbolic encoding for time-series forecasting"
+  },
+  {
+    "key": "HBTNYK8X",
+    "title": "General Time Transformer: an Encoder-only Foundation Model for Zero-Shot Multivariate Time Series Forecasting",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Encoder-only foundation model pretrained on 200M time series samples for zero-shot multivariate forecasting"
+  },
+  {
+    "key": "CD2FE94V",
+    "title": "BForTFin: A Financial Domain-Aware Multiscale Evaluation Method for Time-Series Foundation Models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Benchmarking TSFMs for financial time series forecasting across asset classes and timescales"
+  },
+  {
+    "key": "ZARIAE3J",
+    "title": "Time-Series Clustering: A Comprehensive Study of Data Mining, Machine Learning, and Deep Learning Methods",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Evaluation of 84 TS clustering methods including foundation models across 128 datasets"
+  },
+  {
+    "key": "N9UHYWGJ",
+    "title": "Analyzing the Performance of Time Series Foundation Models for Short-term Load Forecasting",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Zero-shot TSFMs (Chronos, Lag-Llama, Moirai, TimesFM) for building load forecasting"
+  },
+  {
+    "key": "7IVPS6RC",
+    "title": "TRACE: Time Series Parameter Efficient Fine-Tuning",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Parameter-efficient fine-tuning method for time series foundation models"
+  },
+  {
+    "key": "8TADG5Z3",
+    "title": "HiMTM: Hierarchical Multi-Scale Masked Time Series Modeling with Self-Distillation for Long-Term Forecasting",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Hierarchical multi-scale masked time series modeling foundation model for long-term forecasting"
+  },
+  {
+    "key": "B9SS94ST",
+    "title": "SolarFM: Spatio-temporal solar irradiance forecasting based on time series foundation model",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Time series foundation model-inspired framework for solar irradiance forecasting"
+  },
+  {
+    "key": "KDEXY4B2",
+    "title": "TimeGPT in load forecasting: A large time series model perspective",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "TimeGPT large time series model for load forecasting with scarce data"
+  },
+  {
+    "key": "69QP989J",
+    "title": "From RNNs to Transformers: Benchmarking deep learning architectures for hydrologic prediction",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Benchmarking pretrained LLMs and time series attention models for hydrologic forecasting"
+  },
+  {
+    "key": "FHUGMPY9",
+    "title": "Toward Foundation Models for Online Complex Event Detection in CPS-IoT: A Case Study",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Foundation models for CPS-IoT complex event detection from sensor time series"
+  },
+  {
+    "key": "VU7PWWT8",
+    "title": "CLIMB: Data Foundations for Large Scale Multimodal Clinical Foundation Models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Clinical multimodal benchmark with time series (ECG) for foundation model pre-training"
+  },
+  {
+    "key": "2IM96KVM",
+    "title": "Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "WaveToken wavelet-based tokenizer for time series foundation model forecasting"
+  },
+  {
+    "key": "WVRV3NWN",
+    "title": "Accelerating quasi-static time series simulations with foundation models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Grid foundation models for neural power flow solvers in quasi-static time series simulations"
+  },
+  {
+    "key": "XXVSSUWK",
+    "title": "SPECIALIZED FOUNDATION MODELS STRUGGLE TO BEAT SUPERVISED BASELINES",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Comparison of foundation models vs supervised baselines including time series domain"
+  },
+  {
+    "key": "JMSKMHXD",
+    "title": "Exploring the application of Time Series Foundation Models to network monitoring tasks",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "TSFMs for network monitoring: zero-shot and few-shot video streaming QoE estimation"
+  },
+  {
+    "key": "YFPUDZX3",
+    "title": "BatteryTSFM: Generalizable long-horizon degradation prediction across conditions and chemistries via time series foundation models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "TSFMs for battery SOH forecasting with cross-condition and cross-chemistry generalization"
+  },
+  {
+    "key": "HLUV2CUM",
+    "title": "ViTime: Foundation Model for Time Series Forecasting Powered by Vision Intelligence",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Vision intelligence-powered time series foundation model with binary image-based metric space"
+  },
+  {
+    "key": "YMMNYJ4M",
+    "title": "Poster abstract: Analyzing the Performance of Time Series Foundation Models for Short-term Load Forecasting",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Zero-shot TSFMs (Chronos, Lag-Llama, Moirai, TimesFM) for building load forecasting (poster)"
+  },
+  {
+    "key": "EBMS96CB",
+    "title": "Application of a time series foundation model to noninvasively estimate intracranial pressure",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "MOMENT time series foundation model for noninvasive ICP estimation (clinical domain)"
+  },
+  {
+    "key": "UYIQVE3X",
+    "title": "Crude oil risk forecasting using time series foundation model",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Time series foundation model for crude oil Value-at-Risk forecasting"
+  },
+  {
+    "key": "598L2FHM",
+    "title": "TIME-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting",
+    "classification": "P2",
+    "dimensions": ["FL", "FM", "TS"],
+    "note": "Federated foundation model leveraging pretrained LMs for time series forecasting with personalized FL strategy"
+  },
+  {
+    "key": "CRD73WZ4",
+    "title": "Accurate forecasting on few-shot learning with a novel inference foundation model",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Inference foundation model for few-shot time series forecasting using gene evolution-inspired decomposition"
+  },
+  {
+    "key": "IGLPN6FC",
+    "title": "Revisiting Foundation Models for Human Activity Recognition: Multiresolution Sensor Fusion with TimesFM",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "TimesFM foundation model adapted as feature encoder for sensor-based human activity recognition"
+  },
+  {
+    "key": "IFEUJRHE",
+    "title": "FinCast: A Foundation Model for Financial Time-Series Forecasting",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "First foundation model specifically designed for financial time-series forecasting"
+  },
+  {
+    "key": "ZNV7ZBRX",
+    "title": "ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Multimodal time series foundation model supporting bimodal input/output for TS and text"
+  },
+  {
+    "key": "2PSUHG9I",
+    "title": "Deep Learning and Large Scale Models for Bank Transactions",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "UniTTAB foundation model for bank transactional time series data"
+  },
+  {
+    "key": "XBMSXKFJ",
+    "title": "TOWARDS NEURAL SCALING LAWS FOR TIME SERIES FOUNDATION MODELS",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Scaling laws study for encoder-only and decoder-only TSFM architectures"
+  },
+  {
+    "key": "Y8FMI44W",
+    "title": "Are Time Series Foundation Models Ready to Revolutionize Predictive Building Analytics?",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Benchmarking TSFMs for building analytics: indoor temperature and electricity forecasting"
+  },
+  {
+    "key": "UR8NAD98",
+    "title": "DASFormer: self-supervised pretraining for earthquake monitoring",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Self-supervised pretraining outperforming TS forecasting/anomaly detection/foundation models for seismic monitoring"
+  },
+  {
+    "key": "N23245GY",
+    "title": "SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Lightweight transformer on par with MOIRAI foundation model for time series forecasting"
+  },
+  {
+    "key": "SPW9KWBS",
+    "title": "Time Series Foundation Model for Improved Transformer Load Forecasting and Overload Detection",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "FreqMixer framework enhancing TSFMs for electrical transformer load forecasting"
+  },
+  {
+    "key": "KEAMVGMT",
+    "title": "Exploring Representations and Interventions in Time Series Foundation Models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Representational analysis and pruning of TSFMs for efficiency"
+  },
+  {
+    "key": "KJBMDSEE",
+    "title": "Probabilistic forecasting for building energy systems using time-series foundation models",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "Chronos TSFM fine-tuning for building energy probabilistic forecasting"
+  },
+  {
+    "key": "B2KD2VWD",
+    "title": "Multimodal learning using large language models to improve transient identification of nuclear power plants",
+    "classification": "P5",
+    "dimensions": ["FM", "TS"],
+    "note": "LLM + time series encoder for transient identification in nuclear power plants"
+  },
+  {
+    "key": "IWLHDU8D",
+    "title": "Hybrid AI and LLM-Enabled Agent-Based Real-Time Decision Support Architecture for Industrial Batch Processes: A Clean-in-Place Case Study",
+    "classification": "P5",
+    "dimensions": ["FM", "TS", "PdM"],
+    "note": "LLM-enabled architecture for industrial batch process monitoring with preventive maintenance planning; sensor time streams from CIP system"
+  }
+]

@@ -1,0 +1,61 @@
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{awesome-cv}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\fontdir[fonts/]
+\colorlet{awesome}{awesome-red}
+\setbool{acvSectionColorHighlight}{true}
+\renewcommand{\acvHeaderSocialSep}{\quad|\quad}
+
+%-------------------------------------------------------------------------------
+% PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+\photo[circle,noedge,left]{img/cv_pc.png}
+\name{Yassire}{Ammouri}
+\position{Data Science \& AI Engineer}
+\address{Salé -- Rabat, Morocco}
+\mobile{(+212) 648289422}
+\email{yassire.ammouri@um5r.ac.ma}
+\github{yassire1}
+\linkedin{yassire-ammouri}
+
+%-------------------------------------------------------------------------------
+% RECIPIENT
+%-------------------------------------------------------------------------------
+\recipient
+  {Talent Acquisition Team \\
+  Capgemini \\
+  Morocco}
+  {}
+
+\lettertitle{Application -- Data Scientist}
+\letteropening{Dear Hiring Team,}
+\letterclosing{Thank you for considering my application. I would be pleased to discuss how my background can contribute to Capgemini's data-driven projects.\\
+\\
+Sincerely,}
+\letterenclosure[Attached]{Curriculum Vitae}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+\makecvheader[R]
+\makelettertitle
+
+\begin{cvletter}
+
+As a final-year \textbf{Data Science} engineering student at SUPMTI Rabat, I am writing to express my strong interest in the \textbf{Data Scientist} position at \textbf{Capgemini}. Your vision of technology as a driver for business transformation resonates with my own ambition: to contribute to high-impact data projects while growing within an environment of collective expertise.
+
+During my \textbf{Final Year Project (PFE)} at the \textbf{LRIT Laboratory, Mohammed V University}, I developed a data-centric federated learning framework for multi-class wind turbine failure prediction (6 classes). I designed end-to-end preprocessing pipelines — including dynamic temporal labeling, hybrid feature selection (120+ raw features $\rightarrow$ 26 domain-informed predictors), and class imbalance mitigation ($<$2\% failure samples) using focal loss, TimeGAN synthetic oversampling, and intelligent downsampling. I also implemented a federated learning system using the \textbf{Flower} framework (FedAvg/FedProx), deployed via \textbf{Docker Compose}, and conducted 10+ comparative experiments on deep learning architectures (\textbf{1DCNN-BiLSTM}), leveraging \textbf{Weights \& Biases} for experiment tracking and documentation.
+
+Additionally, my current internship at \textbf{OCP SOLUTIONS} as a Backend AI Engineer has complemented this experience with production-grade skills: building a stateful \textbf{LangGraph} agent for AI-driven micro-course generation, orchestrating microservices via \textbf{Docker Compose, PostgreSQL, Redis}, and deploying LLM pipelines with \textbf{FastAPI} and real-time SSE streaming. This dual background — applied research on a complete data science project and industrial AI solution development — enables me to manage the full ML lifecycle, from data preparation to production deployment.
+
+Proficient in \textbf{Python, TensorFlow, Scikit-learn}, and cloud architectures (\textbf{AWS, GCP, OCI}), I am comfortable handling large-scale datasets, building reproducible data pipelines, and communicating insights to non-technical stakeholders. My analytical mindset and collaborative spirit align well with Capgemini's inclusive and multicultural culture.
+
+Joining Capgemini represents an opportunity to leverage this dual expertise — data science research and AI engineering — on diverse and impactful projects for major clients. I would welcome the chance to discuss my candidacy and explore how I can contribute to your teams.
+
+\end{cvletter}
+
+\makeletterclosing
+
+\end{document}

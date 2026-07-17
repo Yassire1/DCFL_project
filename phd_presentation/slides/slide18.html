@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #FFFFFF; }
+body { width: 720pt; height: 405pt; margin: 0; padding: 0; background: #FFFFFF; font-family: Arial, sans-serif; display: flex; }
+.accent-bar { position: absolute; top: 0; left: 0; width: 100%; height: 3pt; background: #2D2D2D; }
+.container { margin: 0; padding: 40pt 60pt 30pt 60pt; width: 600pt; }
+.section-num { color: #999999; font-size: 11pt; margin: 0 0 4pt 0; letter-spacing: 2pt; }
+.section-title { color: #2D2D2D; font-size: 24pt; font-weight: bold; margin: 0 0 20pt 0; }
+.contributions { display: flex; gap: 16pt; margin: 0 0 16pt 0; }
+.contribution { flex: 1; background: #FAFAFA; border: 1pt solid #E0E0E0; border-radius: 6pt; padding: 10pt; }
+.contrib-title { color: #2D2D2D; font-size: 11pt; font-weight: bold; margin: 0 0 6pt 0; }
+.contrib-list { color: #6B6B6B; font-size: 8pt; margin: 0; line-height: 1.4; }
+.contrib-list li { margin-bottom: 3pt; }
+.vision-box { background: #2D2D2D; color: #FFFFFF; padding: 12pt 16pt; border-radius: 6pt; margin: 20pt 0 0 0; }
+.vision-title { font-size: 11pt; font-weight: bold; margin: 0 0 6pt 0; }
+.vision-text { font-size: 9pt; margin: 0; line-height: 1.5; }
+.scenarios { display: flex; gap: 10pt; margin: 10pt 0 0 0; }
+.scenario { flex: 1; background: #F0F0F0; border-radius: 4pt; padding: 6pt; text-align: center; }
+.scenario-name { color: #2D2D2D; font-size: 8pt; font-weight: bold; margin: 0; }
+.scenario-desc { color: #6B6B6B; font-size: 7pt; margin: 2pt 0 0 0; }
+.footer { position: absolute; bottom: 16pt; left: 60pt; right: 60pt; color: #999999; font-size: 9pt; border-top: 1pt solid #E0E0E0; padding-top: 6pt; display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+<div class="accent-bar"></div>
+<div class="container">
+  <p class="section-num">Section 05 — C3 + C4</p>
+  <p class="section-title">C3 & C4: Architecture Native FL + Validation</p>
+  <div class="contributions">
+    <div class="contribution">
+      <p class="contrib-title">C3: FedTSFM-Arch</p>
+      <ul class="contrib-list">
+        <li>Patching hiérarchique (réduit contexte)</li>
+        <li>MoE sparse client-guidé (spécialisation)</li>
+        <li>Mises à jour low-rank (×50 réduction comm.)</li>
+      </ul>
+    </div>
+    <div class="contribution">
+      <p class="contrib-title">C4: IndusFedFM</p>
+      <ul class="contrib-list">
+        <li>Intra-domaine (éoliens)</li>
+        <li>Cross-domaine (éolien+HVAC+manuf.)</li>
+        <li>Cold-start (zero-shot)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="scenarios">
+    <div class="scenario"><p class="scenario-name">Intra-domaine</p><p class="scenario-desc">Single domaine</p></div>
+    <div class="scenario"><p class="scenario-name">Cross-domaine</p><p class="scenario-desc">Multi-domaines</p></div>
+    <div class="scenario"><p class="scenario-name">Cold-start</p><p class="scenario-desc">Zero-shot</p></div>
+  </div>
+  <div class="vision-box">
+    <p class="vision-title">🎯 Vision</p>
+    <p class="vision-text">Un Foundation Model de Séries Temporelles entraînable fédéré pour maintenance multi-domaine</p>
+  </div>
+</div>
+<div class="footer"><span>18</span><span>Rapport d'avancement de thèse — Y. AMMOURI</span></div>
+</body>
+</html>

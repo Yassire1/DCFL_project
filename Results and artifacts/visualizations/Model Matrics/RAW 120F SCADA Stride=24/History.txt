@@ -1,0 +1,4 @@
+What we did : 
+
+- we used stride of 24
+- used CategoricalFocalCrossEmthrepy function

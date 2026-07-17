@@ -1,0 +1,2919 @@
+[
+  {
+    "key": "VMRPZPJQ",
+    "title": "Federated LSTM Model for Enhanced Anomaly Detection in Cyber Security: A Novel Approach for Distributed Threat",
+    "note": "FL + LSTM for cybersecurity anomaly detection. 2 dimensions (FL+TS) but cybersecurity, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "XJ9AK6DQ",
+    "title": "Semi-supervised Fine-tuning for Large Language Models",
+    "note": "NLP: semi-supervised LLM fine-tuning; no FL, TS, or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "G9ZXRUL6",
+    "title": "Deep learning for automatic vertebra analysis: A methodological survey of recent advances",
+    "note": "Medical image analysis; no relevant dimensions.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "7XIQ2Y76",
+    "title": "Artificial intelligence for microgrids design, control, and maintenance: A comprehensive review and prospects",
+    "note": "AI for microgrids. FL and PdM mentioned but not core focus.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "LC2Y6RKR",
+    "title": "Toward Edge General Intelligence With Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration",
+    "note": "Multi-LLM edge computing. NLP-focused, not time-series FM. No FL, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "2UF7CBWR",
+    "title": "Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method",
+    "note": "NO: FL + FM (CLIP prompt learning theory). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "Z2VQRUF9",
+    "title": "Recent Advances and Innovative Approaches to Railway Safety Based on Applications, Sensors and Algorithms: A Systematic Review",
+    "note": "Railway safety with anomaly detection and deep learning. No FL, FM, or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "XBHRSC3V",
+    "title": "FLICU: A Federated Learning Workflow for Intensive Care Unit Mortality Prediction",
+    "note": "Medical domain (ICU mortality prediction); not TS analysis or PdM",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "3F9I3SJ5",
+    "title": "Segmentation Foundation Model-Aided Medical Image Segmentation",
+    "note": "SAM FM for medical segmentation. Dual-stream collaborative learning (not FL). No TS or PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "YXUC55D2",
+    "title": "Enhancing stress detection in wearable IoT devices using federated learning and LSTM based hybrid model",
+    "note": "FL + LSTM for stress detection from wearables. Medical/health domain. 2 dimensions (FL+TS) but health, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "MPGWTWR4",
+    "title": "A Pedagogical Approach for Evaluating AIOps",
+    "note": "Evaluation of LLMs for AIOps/IT operations fault detection - not industrial PdM",
+    "_batch": 7,
+    "_category": "no"
+  },
+  {
+    "key": "HR9I83I2",
+    "title": "Privacy-Preserving Federated Depression Detection From Multisource Mobile Health Data",
+    "note": "FL for depression detection from mobile health data. Healthcare domain, no industrial relevance.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "PGFITPNQ",
+    "title": "MLNLP 2024 - 2024 International Conference on Machine Learning and Natural Language Processing",
+    "note": "Conference proceedings. NLP-focused. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "LFKKQMUY",
+    "title": "Toward Intelligent Communication and Optimization in EVs: A tutorial on the Transformative Impact of Large Language Models",
+    "note": "LLMs for EV human-vehicle interaction. No FL, FM (time-series), TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "D8BYLD8Z",
+    "title": "Applications of Artificial Intelligence and Smart Devices in Metabolic Dysfunction-associated Steatotic Liver Disease",
+    "note": "Medical AI for liver disease; no relevant dimensions.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "3I53E9IE",
+    "title": "Multi-Model Deep Learning Framework for Scene Recognition in Indoor and Outdoor Environments: A Comparative Study",
+    "note": "Survey on deep learning for scene recognition. FL and FM mentioned as emerging trends. No TS or PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "BJN2UFW9",
+    "title": "A federated learning-based approach to recognize subjects at a high risk of hypertension in a non-stationary scenario",
+    "note": "FL + time series for hypertension risk detection. Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "A9IUPZW3",
+    "title": "Artificial Intelligence of Things for Next-Generation Predictive Maintenance",
+    "note": "AIoT for PdM. FL and PdM present. Broad survey covering many AI techniques, not FM-specific.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "Z4LM88A4",
+    "title": "Digital Twins in Energy Infrastructure: Frameworks and Deployment Pathways",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "LIKYD82P",
+    "title": "Steering the Future: Redefining Intelligent Transportation Systems with Foundation Models",
+    "year": "2024",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "TXI4CYRV",
+    "title": "Designing Resilient AI-Powered Digital Assistants for Industrial Applications: a Mini Review of Key Challenges",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "XZ2M57RX",
+    "title": "Boosting Transferability and Discriminability for Time Series Domain Adaptation",
+    "note": "Domain adaptation for time series (transfer learning). No FL, no FM, no PdM. General time series transfer learning.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "CBN9INND",
+    "title": "LLM-Based Exploitation of Edge Data in Modern Power Systems",
+    "note": "LLMs for edge data in power systems. LLM for NLP/reasoning, not time-series FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "8U7XTGHD",
+    "title": "A Survey on Digital Twin for Industrial Internet of Things: Applications, Technologies and Tools",
+    "note": "DT for IIoT survey. FL and transfer learning mentioned but not PdM-focused.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "UQJSZLZM",
+    "title": "Federated semi-supervised calibrated efficient fine-tuning of foundation models for medical image classification",
+    "note": "NO: FL + FM for medical image classification. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "X3QDYG47",
+    "title": "Robust Knowledge Extraction from Large Language Models using Social Choice Theory",
+    "note": "General LLM robustness methodology for fault diagnosis reasoning - not industrial PdM application",
+    "_batch": 7,
+    "_category": "no"
+  },
+  {
+    "key": "W9JDM5AM",
+    "title": "Machine Learning Techniques for Vibration-Based Condition Monitoring-A Review",
+    "note": "Vibration-based condition monitoring. FL mentioned. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "7YILHTVG",
+    "title": "Curriculum Engineering: Structured Learning for Large Language Models (LLMs) Through Curriculum Based Retrieval",
+    "note": "RAG framework for LLMs in social manufacturing. No FL, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "RWHZT7QL",
+    "title": "From 5G to 6G: The Role of AI, Machine Learning, and Deep Learning in Wireless Systems",
+    "note": "5G/6G AI survey. FL and PdM mentioned in wireless network context.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "5GEJ3JR9",
+    "title": "A Survey on ChatGPT: AI\u2013Generated Contents, Challenges, and Solutions",
+    "note": "AIGC/ChatGPT survey. LLM for NLP content generation, not time-series FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "2IJQ6GMH",
+    "title": "2025 4th International Conference on Artificial Intelligence, Internet of Things and Cloud Computing Technology, AIoTC 2025",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "BWYA78DA",
+    "title": "Data Aging Matters: Federated Learning-Based Consumption Prediction in Smart Homes via Age-Based Model Weighting",
+    "note": "FL for smart home energy consumption prediction. Consumer IoT, not industrial. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "T3MZAHTK",
+    "title": "AI at the Core of Smart Grids: Leveraging LLMs for Resilience and Efficiency",
+    "note": "NO: LLMs for smart grids. Mentions fault diagnosis and load forecasting. FL only proposed as future technique. Primarily LLM + smart grid, not FM + PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "ZD2D5CUW",
+    "title": "State of the Art Techniques for Flood Prediction Models - a Systematic Review",
+    "note": "Flood prediction models. FL mentioned as future direction. No FM or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "5FKEWDFP",
+    "title": "2023 Silicon Valley Cybersecurity Conference, SVCC 2023",
+    "note": "Conference proceedings. Cybersecurity focus. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "DXWDMBBB",
+    "title": "A Study on GANs for Data Augmentation in Machine Learning",
+    "note": "GAN data augmentation survey. FL mentioned in tags but not core. No TS or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "ELH38AKQ",
+    "title": "Federated Learning for Decentralized Electricity Market Optimization: A Review and Research Agenda",
+    "note": "FL for electricity markets. FL present but PdM only one of many applications mentioned.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "QZ79AJR8",
+    "title": "Prompt Engineering Approach Study for Supervised Fine-Tuned (SFT) Large Language Models (LLMs) in Spacecraft Fault Diagnosis",
+    "note": "LLM prompt engineering for spacecraft fault diagnosis. FM + PdM but spacecraft (aerospace), very niche. Classified NO as borderline.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "MJNTQEQ2",
+    "title": "Comprehensive Review of Electric Vehicle Energy Demand Forecasting Techniques",
+    "note": "EV charging demand forecasting with LSTM. Time-series present but no FL or FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "9HH4Q3VA",
+    "title": "Big Data Analytics and Deep Learning: Technologies for Scalable Information Processing and Extracting Awareness",
+    "note": "Big data/DL integration survey. FL and PdM mentioned but not core focus.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "6YKAL77I",
+    "title": "Resource-Aware ECG Classification with Heterogeneous Models in Federated Learning",
+    "note": "FL for ECG classification. Healthcare domain.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "6B95QGCJ",
+    "title": "SoK: Membership Inference Attacks on LLMs are Rushing Nowhere (and How to Fix It)",
+    "note": "LLM privacy/security research. No FL, FM (time-series), TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "G5IFABN6",
+    "title": "Predictive Analysis For Ecommerce Sales",
+    "note": "E-commerce sales prediction. No FL, FM, TS (industrial), or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "AYSXWPU5",
+    "title": "Detection of Brain Tumour using CNN in Federated Machine Learning",
+    "note": "FL + CNN for brain tumor detection. CNN is not a foundation model. No TS or PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "UVPZYYK6",
+    "title": "Artificial intelligence in personalized nutrition and food manufacturing: a comprehensive review of methods, applications, and future directions",
+    "note": "AI in nutrition/food manufacturing. FL and PdM mentioned but food domain, not industrial PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "SFQZKJNQ",
+    "title": "A Comprehensive Review on the Application of Large Language Models (LLMs) in Power Systems",
+    "note": "LLM applications in power systems. LLM for NLP/text processing, not time-series FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "FZXGLMEM",
+    "title": "Transforming Agriculture with Machine Learning: A Review of Applications and Future Prospects",
+    "note": "Agricultural ML applications; no FM, no PdM focus.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "9RM3DF2F",
+    "title": "AI for screening in healthcare: promise and challenges",
+    "note": "NO: Healthcare AI screening review. FL and FM mentioned briefly. Medical, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "Y3HZQB62",
+    "title": "Advanced deep learning and large language models: Comprehensive insights for cancer detection",
+    "note": "Medical AI: DL/LLM for cancer detection; FL mentioned only in techniques overview",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "4QJLRA9T",
+    "title": "Intra-Hour Photovoltaic Generation Forecasting Based on Multi-Source Data and Deep Learning Methods",
+    "note": "Deep learning for PV forecasting. No FL or FM.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "HICDDTIE",
+    "title": "AI For Core Network in 6G",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "TQXYI8SN",
+    "title": "Is Federated Learning Still Alive in the Foundation Model Era?",
+    "note": "NO: Abstract missing. Perspective/opinion piece on FL relevance. No PdM context indicated.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "2H5ILG28",
+    "title": "Foundation models matter: federated learning for multi-center tuberculosis diagnosis via adaptive regularization and model-contrastive learning",
+    "note": "NO: FL + FM for TB diagnosis (medical imaging). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "39XMY5R2",
+    "title": "A comprehensive review of rice mapping from satellite data: Algorithms, product characteristics and consistency assessment",
+    "note": "Rice mapping from satellite imagery; no relevant dimensions.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "S83V4H8M",
+    "title": "Multi-Source Big Data Indoor Positioning Technology under the Federated Learning Framework",
+    "note": "FL + LSTM for indoor positioning from sensor time series. Location services, not industrial. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "7MUS2A7T",
+    "title": "A Comprehensive Survey on Split-Fed Learning: Methods, Innovations, and Future Directions",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "K6W5Q77S",
+    "title": "Exploring heterogeneous data distribution issues in e-health federated systems",
+    "note": "FL + time series classification for e-health. Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "X4UUDWVB",
+    "title": "A survey of transformer architectures for autonomous driving",
+    "note": "Survey on transformers for autonomous driving. FL and FM mentioned peripherally. No TS or PdM relevance.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "4B7LISN4",
+    "title": "Forecasting Trend of Coronavirus Disease 2019 using Multi-Task Weighted TSK Fuzzy System",
+    "note": "Multi-task fuzzy system for COVID-19 forecasting. No FL, no FM, no PdM. Medical forecasting.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "8D7B6S54",
+    "title": "AI-Driven Integrated Circuit Design: A Survey of Techniques, Challenges, and Opportunities",
+    "note": "AI for IC/RFIC design automation. No FL, FM, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "8Q4P5A5M",
+    "title": "A tertiary review of condition-based maintenance literature: insights and future directions",
+    "note": "CBM tertiary review. FL and PdM present. Sensor fusion for fault diagnosis but not FM or TS core.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "WILVZGI5",
+    "title": "Federated Foundation Models: Privacy-Preserving and Collaborative Learning for Large Models",
+    "note": "NO: FL + FM paradigm paper. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "5XWPQK3Y",
+    "title": "Review of Machine Learning Techniques that Enable Network Slicing in Open RAN",
+    "note": "Review on ML for 5G network slicing. FL and TS mentioned but no industrial IoT focus.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "CTTNG7JU",
+    "title": "Distributed training of foundation models for ophthalmic diagnosis",
+    "note": "NO: FL + FM for ophthalmic diagnosis (medical imaging). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "Y7NEDS2M",
+    "title": "FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework",
+    "note": "FL + CNN for multivariate time series classification. Medical/healthcare applications. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "3YVYW6MY",
+    "title": "Machine learning applications in designing cementitious materials",
+    "note": "ML for cementitious materials; no FM, TS, or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "83LZJRRI",
+    "title": "Artificial General Intelligence for Medical Imaging Analysis",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "XRUQQ4W5",
+    "title": "Human-Computer Interaction in Decision Support Systems for Mining Operations",
+    "note": "HCI in mining DSS. No FL, FM, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "35BLRSHW",
+    "title": "Proceedings - 2024 IEEE Conference on Artificial Intelligence, CAI 2024",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "WUMV3N6M",
+    "title": "AI-Assisted Real-Time Monitoring of Infectious Diseases in Urban Areas",
+    "note": "AI for disease surveillance. Healthcare/epidemiology domain.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "IHFTLSIE",
+    "title": "TempXAI 2024 - Proceedings of the Workshop on Explainable AI for Time Series and Data Streams, co-located with ECML-PKDD 2024",
+    "note": "Workshop proceedings. Mentions explainable FL for time series but no specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "788FV6CL",
+    "title": "The Emergence of Foundation Models in U.S. Radiology: A Narrative Review of Clinical Utility, Safety, and Evaluation",
+    "note": "Medical imaging: FM in radiology review; no TS or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "AB58X3J8",
+    "title": "An Integrated and Flexible Review Framework to Evaluate the Evolution and Barriers of Digital-Twin Technologies in Industrial and Healthcare Domains",
+    "note": "DT technology review for industrial/healthcare. FL and PdM mentioned. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "C5KIWVWY",
+    "title": "AI-Powered Crop Disease Detection Using Drone-Based Multispectral Imaging and Federated Learning",
+    "note": "Agricultural domain (crop disease); FL + spectral imaging, not time series analysis; not industrial/PdM",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "NHY86CTG",
+    "title": "From Implemented to Expected Behaviors: Leveraging Regression Oracles for Non-regression Fault Detection using LLMs",
+    "note": "LLM for software regression testing fault detection - software domain, not industrial PdM",
+    "_batch": 7,
+    "_category": "no"
+  },
+  {
+    "key": "EU34PCXZ",
+    "title": "Federated Low-Rank Adaptation for Foundation Models: A Survey",
+    "note": "NO: FL + FM (LoRA) survey. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "LRVR4TRD",
+    "title": "Integrating Digital Twins and Machine Learning for Enhanced Predictive Maintenance, Real-Time Analytics, and Cost Savings: A Review",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "V5UC8896",
+    "title": "Construction of Food Quality Prediction and Traceability Platform Based on Machine Learning",
+    "note": "ML + blockchain for food quality. FL mentioned only as future work. No industrial IoT.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "CUQR5XB7",
+    "title": "SAFE-MED for Privacy-Preserving Federated Learning in IoMT via Adversarial Neural Cryptography",
+    "note": "FL for IoMT (medical). ECG/health time series. Domain is medical, not industrial. 2 dimensions (FL+TS) but medical domain, no PdM, no FM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "CW8KPCSH",
+    "title": "A Comprehensive Survey of Continual Learning: Theory, Method and Application",
+    "note": "General continual learning survey. No FL, FM, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "M2YZ72QI",
+    "title": "Advancing video self-supervised learning via image foundation models",
+    "note": "Video self-supervised learning using image foundation models (IFMs). No time series analysis or TS foundation models.",
+    "_batch": 13,
+    "_category": "no"
+  },
+  {
+    "key": "8ZWB8ZC6",
+    "title": "Agentic AI: Autonomous Intelligence for Complex Goals\u2014A Comprehensive Survey",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "I4Q76MQI",
+    "title": "Proceedings - 2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems, MASS 2024",
+    "note": "NO: Conference proceedings. VibroFM mentioned in topic list but this is a proceedings entry, not a specific paper.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "GAECEJZ5",
+    "title": "Temporal pathways to learning: How learning emerges in an open-ended collaborative activity.",
+    "note": "Education research using HMM for temporal learning analysis. No FL, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "UDN44KNF",
+    "title": "Vi2ACT: Video-enhanced Cross-modal Co-learning with Representation Conditional Discriminator for Few-shot Human Activity Recognition",
+    "note": "Cross-modal co-learning for HAR. No FL or FM.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "BTUGEFZ9",
+    "title": "CVACL-MA: Comprehensive variate analysis and collaborative learning with multi-adapter for multivariate time series forecasting",
+    "note": "Collaborative learning for MTS forecasting. No FL component.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "B8QI6MB2",
+    "title": "Quantum-Federated Learning: A review of frameworks and applications for Sustainable Development Goals (SDGs)",
+    "note": "Quantum-FL framework. PdM mentioned for one SDG case but not core focus.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "VGVVIS9W",
+    "title": "Foundation model-guided multi-view semi-supervised CT segmentation of liver tumors",
+    "note": "Medical imaging: CT segmentation with FM guidance; no FL, TS, or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "3I7NSZAI",
+    "title": "Selective Layer Fine-Tuning for Federated Healthcare NLP: A Cost-Efficient Approach",
+    "note": "NO: FL + LLM for clinical NER and classification. Healthcare NLP, no TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "HR2TEV5V",
+    "title": "Anomaly Detection Model in Network Security Situational Awareness Based on Machine Learning: Limitation, Techniques, and Future Trends",
+    "note": "Network security anomaly detection. FL and time-series models (LSTM, TCN) mentioned but in cybersecurity context, not industrial PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "C6PBXYCM",
+    "title": "A Survey on Scheduling Techniques in Computing and Network Convergence",
+    "note": "Network/computing resource scheduling. No FL, FM, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "FBQEU24E",
+    "title": "Securing the Internet of Health Things: Embedded Federated Learning-Driven LSTM for Cyberattack Detection",
+    "note": "FL + LSTM for IoHT cybersecurity. Healthcare IoT, not industrial.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "WPD6UAZM",
+    "title": "Integration of Artificial Intelligence in Network Technology: A Literature Review",
+    "note": "AI in networking. FL mentioned as one paradigm. PdM mentioned briefly. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "7UIQVEY4",
+    "title": "Federated Learning-Driven Health Risk Prediction on Electronic Health Records under Privacy Constraints",
+    "note": "Medical domain (health risk prediction from EHR); not TS analysis or PdM",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "BVAV8CKW",
+    "title": "FLAIR: Federated Learning for Augmented Industrial Retrieval",
+    "note": "NO: FL+FM for industrial product retrieval (e-commerce). Not time-series or PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "LMLDBK3L",
+    "title": "AgentFL: AI-Orchestrated Agents for Federated Learning",
+    "note": "NO: FL + LLM agents for automating FL orchestration. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "TZIZ49RU",
+    "title": "Actions to enhance interactive learning in surgery",
+    "note": "Surgical education technology; no relevant dimensions.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "SP9VNM5M",
+    "title": "Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "7DUX2MPG",
+    "title": "Potential of Quantum Computing Applications for Smart Grid Digital Twins and Future Directions",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "5HY9Y2L9",
+    "title": "FedExIT - missing class-agnostic semi-supervised federated learning with extreme imbalance tackling scheme",
+    "note": "NO: FL + FM (DINOv2). Image classification. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "3VGBKY2F",
+    "title": "HeLoRA: LoRA-heterogeneous Federated Fine-tuning for Foundation Models",
+    "note": "NO: FL + FM (LoRA fine-tuning). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "LM3R344X",
+    "title": "Look Back for More: Harnessing Historical Sequential Updates for Personalized Federated Adapter Tuning",
+    "note": "NO: FL + FM (personalized adapter tuning). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "2T4RVMVD",
+    "title": "FedTSC: A Secure Federated Learning System for Interpretable Time Series Classification",
+    "note": "FL + time series classification. General. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "I3FFPJK9",
+    "title": "Economizing Large Language Model Training and Alignment with Human Values through CostEffective Architectures and Transfer Learning Techniques",
+    "note": "LLM training efficiency; no time-series, PdM, or FL core.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "QNDT5NR9",
+    "title": "Foundation models in ophthalmology: opportunities and challenges",
+    "note": "Medical foundation models for ophthalmology; no time-series or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "8RJQVFH4",
+    "title": "Buffalo: Biomedical Vision-Language Understanding with Cross-Modal Prototype and Federated Foundation Model Collaboration",
+    "note": "NO: FL + FM for biomedical vision-language. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "43EY6HGA",
+    "title": "From CNNs to Transformers: A Review of Evolving Deep Learning Architectures for Brain Tumor Classification",
+    "note": "DL architecture review for brain tumors. FL/FM mentioned as future directions. Not core.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "FEF78H2X",
+    "title": "Recent Advances in Federated Learning for Connected Autonomous Vehicles: Addressing Privacy, Performance, and Scalability Challenges",
+    "note": "FL for autonomous vehicles. FL present. PdM mentioned as one application. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "IEITAHG9",
+    "title": "2025 International Conference on Cybersecurity and AI-Based Systems, Cyber-AI 2025",
+    "note": "Conference proceedings: not a single research paper",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "AR37IUWE",
+    "title": "Research on Seismic Signal Analysis Based on Machine Learning",
+    "note": "MiniRocket for seismic time series classification. No FL, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "QDN9NF8H",
+    "title": "CLaI: Collaborative Learning and Inference for Low-Resolution Physiological Signals: Validation in Clinical Event Detection and Prediction",
+    "note": "Medical domain (clinical event detection); uses collaborative filtering, not FL",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "9UYQVLH2",
+    "title": "Sparse Mixture-of-Experts LLMs for Efficient ICD Code Prediction in Clinical Outcome Modeling",
+    "note": "Medical: MoE LLMs for clinical outcome prediction from MIMIC-IV",
+    "_batch": 12,
+    "_category": "no"
+  },
+  {
+    "key": "XGYCJDE3",
+    "title": "Leveraging Large Language Models for Enhanced Design and Analysis in Power Engineering",
+    "note": "LLMs for power engineering design. PdM mentioned in tags but not core focus. LLM for NLP tasks in power domain.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "PX8PXXIU",
+    "title": "WeakPolyp-SAM: Segment Anything Model-driven weakly-supervised polyp segmentation",
+    "note": "NO: FM (SAM) for medical image segmentation. No FL, no TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "X8IZZAAZ",
+    "title": "Emotions and entropy in team decision-making in chaotic learning dynamics",
+    "note": "Education/psychology research. Collaborative learning (not FL). No FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "WXMDXXBC",
+    "title": "Evolving Collective Intelligence for Unmanned Marine Vehicle Swarms: A Federated Meta-Learning Framework for Cross-Fleet Planning and Control",
+    "note": "NO: FL + FM for maritime autonomous vehicles. No TS analysis, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "97TCIEFS",
+    "title": "Transforming mining energy optimization: a review of machine learning techniques and challenges",
+    "note": "Mining energy optimization with ML. FL and PdM mentioned. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "7Y5MTGA4",
+    "title": "Federated Learning of Models Pre-Trained on Different Features with Consensus Graphs",
+    "note": "FL with pre-trained models (not FM). Time-series application (power grids) but no foundation models.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "54ZAAH52",
+    "title": "Machine Learning Driven Energy Efficiency Framework Using Digital Twin: A Review",
+    "year": "2024",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "RPEMEPW7",
+    "title": "Collaborative Learning Environments by Educational Agent Feedback Systems",
+    "note": "Educational AI with LLMs for learning diagnostics. Not federated learning, no FM/TS/PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "K5BBSDNM",
+    "title": "Towards Better Accuracy-Efficiency Trade-Offs: Dynamic Activity Inference via Collaborative Learning From Various Width-Resolution Configurations",
+    "note": "HAR with collaborative learning (self-distillation); not FL; not time series analysis",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "9NYH4R3J",
+    "title": "Federated Learning in Vehicular Networks: A Review of Emerging Trends and Future Directions",
+    "year": "2024",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "6HKBP5ML",
+    "title": "A comprehensive review on data-driven driver behaviour scoring in vehicles: technologies, challenges and future directions",
+    "note": "Driver behavior with PdM mention for vehicles; automotive focus, no FM/TS core.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "PGZTLFDN",
+    "title": "BUILDING FOUNDATION MODELS-POTENTIALS, CHALLENGES AND RESEARCH DIRECTIONS FOR USING LLM AND LVM IN AEC",
+    "note": "Foundation models (LLM/LVM) for architecture/engineering/construction. FM present but for CAD/text, not time-series. No FL, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "RZ4UDR9H",
+    "title": "FedGST: Federated Graph Spatio-Temporal Framework for Brain Functional Disease Prediction",
+    "note": "Medical domain (brain functional disease prediction with fMRI); not industrial/PdM",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "Z7294WVY",
+    "title": "Towards Explainable Federated Learning in Healthcare: A Study on Heart Arrhythmia Detection",
+    "note": "FL + TCN for ECG time series (arrhythmia detection). Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "Q7IIMZF5",
+    "title": "Multi-modal collaborative learning with vision foundation model prompt boosts 3D semi-supervised semantic segmentation",
+    "note": "Computer vision: 3D semantic segmentation with vision FM; no FL, TS, or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "6QGAR77V",
+    "title": "The Role of Generative Artificial Intelligence and Large Language Models in Atrial Fibrillation: Clinical Research and Decision Support",
+    "note": "LLMs for cardiac care; FL mentioned but medical domain, no time-series FM or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "6QJHMBVB",
+    "title": "Generative Artificial Intelligence Device to analysis the data for SAP based Data Management",
+    "note": "SAP Foundation Model for tabular business data. FL mentioned briefly. No TS or PdM focus.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "9F3F6G8A",
+    "title": "A survey on privacy risks and protection in large language models",
+    "note": "LLM privacy: FL mentioned as one protection method; no TS or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "TB9TLHUN",
+    "title": "Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning",
+    "note": "NO: FL + FM infrastructure (dataset library). Language modeling focus. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "CCQDWYGZ",
+    "title": "A roadmap to fault diagnosis of industrial machines via machine learning: A Brief Review",
+    "note": "ML fault diagnosis roadmap. FL mentioned. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "W9AC7K7U",
+    "title": "Deep Learning in Medical Image Analysis: A Comprehensive Review of Algorithms, Trends, Applications, and Challenges",
+    "note": "NO: Medical image analysis review. FL mentioned among many topics. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "SUWLB2TA",
+    "title": "GradualDiff-Fed: A Federated Learning Specialized Framework for Large Language Model",
+    "note": "NO: FL + LLM for NLP. Reduces communication costs for federated LLM fine-tuning. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "PIAMKP4I",
+    "title": "Federated zero-shot learning with mid-level semantic knowledge transfer",
+    "note": "NO: FL + FM for zero-shot learning. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "BUT9PDSG",
+    "title": "Research Progress on Data-Driven Industrial Fault Diagnosis Methods",
+    "note": "Data-driven fault diagnosis with LLMs; PdM+FM but lacks explicit time-series analysis focus.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "5H4D89B2",
+    "title": "Design of an Iterative Method with Unified Privacy-Preserving Authentication and Intelligent Forensic Framework for Cloud and IoT Security Analysis",
+    "note": "Cloud/IoT security with FL for malware forensics. FL only dimension, security domain not industrial IoT.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "N2J5YPIQ",
+    "title": "A Review of Fault Diagnosis Methods: From Traditional Machine Learning to Large Language Model Fusion Paradigm",
+    "note": "Fault diagnosis with LLMs; PdM+FM but no time-series analysis focus. Industrial fault diagnosis is primarily signal/image-based.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "5ZFVIXTD",
+    "title": "Language Models at the Edge: A Survey on Techniques, Challenges, and Applications",
+    "note": "Edge LLM deployment. NLP-focused model compression, not time-series FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "7KUZ9XDF",
+    "title": "Federated Learning and Blockchain-Based Hybrid Model for Stock Price Prediction and Financial Market Forecasting",
+    "note": "Financial forecasting domain; not industrial/PdM",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "2K6HFL9C",
+    "title": "Hybrid deep learning and machine learning framework for high-precision water quality prediction in urban systems",
+    "note": "DL/ML for water quality prediction. FL mentioned only as future work.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "YAUG9W8W",
+    "title": "A Fully Decentralized Homomorphic Federated Learning Framework",
+    "note": "NO: FL only (homomorphic encryption in FL). No FM, no TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "EXDFIX4V",
+    "title": "Artificial intelligence in cardiovascular imaging and intervention",
+    "note": "NO: AI for cardiac imaging. FL and FM mentioned. Medical, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "5B6QYQRL",
+    "title": "Proceedings - IEEE International Conference on Knowledge Graph, ICKG 2023",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "P77AMDFB",
+    "title": "Foundation Models Defining a New Era in Vision: A Survey and Outlook",
+    "note": "Vision foundation models (image/video); not time-series. No FL or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "3DHEE87H",
+    "title": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, ECML PKDD 2024",
+    "note": "Conference proceedings, not a single paper. Contains 272 papers.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "HUTBGGJH",
+    "title": "Advancing Medical Imaging Research Through Standardization",
+    "note": "Medical imaging standardization: FL and FM mentioned as potential benefits only, not core contribution",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "TCC6BLTR",
+    "title": "Small Language Models and Their Role in Hybrid AI Architectures for Big Data Analytics",
+    "note": "SLMs vs LLMs for big data. FL mentioned as future direction. No FM, no TS, no PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "XQ8GTLKL",
+    "title": "Proceedings - 2022 International Conference on Advanced Computing and Analytics, ACOMPA 2022",
+    "note": "Conference proceedings: not a single research paper",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "2HITD58B",
+    "title": "A Federated Deep Learning Approach for Privacy-Preserving Cardiovascular Risk Prediction",
+    "note": "Medical domain (cardiovascular risk prediction); not TS analysis or PdM",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "MJNC3C5A",
+    "title": "Securing Digital Twins in Autonomous Vehicles: Cyber Threats, Mitigation Strategies, and Innovative Security Solutions",
+    "note": "DT security for AVs. FL and PdM mentioned but cybersecurity focus.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "RP6WSRH9",
+    "title": "Paving the Future of Intelligent Pavement Defect Detection with Machine Learning: A Comprehensive Survey of Techniques and Applications",
+    "note": "Pavement defect detection. FL and edge computing mentioned but not core. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "RKIC54R9",
+    "title": "Approaching semi-supervised collaborative learning model for remote sensing image analysis",
+    "note": "Remote sensing image analysis; collaborative clustering not FL; no time series analysis",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "3P6ADJ4V",
+    "title": "A Systematic Review of Building Energy Management Systems (BEMSs): Sensors, IoT, and AI Integration",
+    "note": "BEMS survey. PdM and fault detection mentioned but no FL or FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "2Z3L6DZK",
+    "title": "Multimodal Large Language Model-Based Fault Detection and Diagnosis in Context of Industry 4.0",
+    "note": "PdM+FM (GPT-4 for FDD) but framework focuses on multimodal LLM, not time-series analysis.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "CGDTIBLV",
+    "title": "Decoding the Digital Pulse: Bibliometric Analysis of 25 Years in Digital Health Research Through the Journal of Medical Internet Research",
+    "note": "Bibliometric analysis of digital health publications. Mentions Google's TSFM as a prediction tool but no FM application or TS analysis.",
+    "_batch": 13,
+    "_category": "no"
+  },
+  {
+    "key": "VU352VPU",
+    "title": "One-Shot Heterogeneous Federated Learning with Local Model-Guided Diffusion Models",
+    "note": "NO: FL + FM (diffusion models). Image classification. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "S7GFW7HR",
+    "title": "A Machine Learning Framework for Fault Detection in IoT Enabled Smart Sensor Networks",
+    "note": "IoT fault detection with ML. Fault detection present but no FL or FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "DXD9DUKV",
+    "title": "Early ICU Mortality Prediction with Deep Federated Learning: A Real-World Scenario",
+    "note": "FL for ICU mortality prediction from multivariate time series. Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "2QF5WXWL",
+    "title": "A foundation model-driven multi-view collaborative framework for semi-supervised 3D medical image segmentation",
+    "note": "NO: FM (SAM) for 3D medical image segmentation. No FL, no TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "MW9SL756",
+    "title": "Enhancing Critical Infrastructure Security: Addressing Cybersecurity Risks and Regulatory Gaps in AI-Enabled IoT Systems",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "GZNXYH3T",
+    "title": "Using federated learning for detecting autism in children",
+    "note": "FL + CNN-LSTM for autism detection. Healthcare domain.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "5WUY56JS",
+    "title": "Proceedings - IEEE Conference on Safe and Trustworthy Machine Learning, SaTML 2024",
+    "note": "NO: Conference proceedings. No substantive contribution.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "Q8KT88BG",
+    "title": "A Survey on Efficient Federated Learning Methods for Foundation Model Training",
+    "note": "NO: FL + FM survey. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "CT6IUSP2",
+    "title": "AI in Breast Cancer Imaging: An Update and Future Trends",
+    "note": "NO: AI for breast cancer imaging. FL and FM mentioned. Medical, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "2R7J3S93",
+    "title": "Effective 3C Resource Utilization and Fair Allocation Strategy for Multi-Task Federated Learning",
+    "note": "FL resource allocation optimization; no domain application; not TS analysis or PdM",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "6IKJWZ7A",
+    "title": "Evaluating Smart Building Features for Fire, Electrical, and Life Safety: A Rapid Human-LLM Framework for Literature Review and Research Mapping",
+    "note": "LLM-assisted literature review methodology for building safety. No FL, FM (time-series), TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "LE4I2X33",
+    "title": "AI-Driven Security Solutions for Industrial IoT: Challenges and Future Directions",
+    "note": "IIoT security with AI. FL mentioned for privacy. No TS or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "SG52KLYN",
+    "title": "IoT Enabled Microgrid and Bess Integration in ADMS: A Framework for Climate Resilient Grid Operation",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "DMLD698K",
+    "title": "Distributed Federated Deep Learning in Clustered Internet of Things Wireless Networks with Data Similarity-Based Client Participation",
+    "note": "FL for time series prediction in wireless IoT. General IoT, not industrial. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "2H9T87TE",
+    "title": "Cluster-Based Heterogeneous Federated Foundation Model Adaptation and Fine-Tuning",
+    "note": "NO: FL + FM (cluster-based adaptation). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "P8L36GSS",
+    "title": "Multimodal AI for Real-Time Food Safety and Quality: From Sensors to Foundation Models, Edge Deployment, and Regulation",
+    "note": "Multimodal AI for food safety. Foundation models and sensor time-series present but food domain, not industrial PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "RPZETZFX",
+    "title": "Deep Learning in Depression Detection: A Comprehensive Survey and Critical Analysis",
+    "note": "NO: Depression detection survey. FL mentioned for future HIPAA compliance. Medical/mental health, not industrial.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "Q543Y2Z7",
+    "title": "Machine learning applications in wind energy production: Current status, challenges, and future directions",
+    "note": "Wind energy ML. FL and PdM mentioned. SCADA time-series analytics present but broad ML survey.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "5YRJI4AV",
+    "title": "REVOLUTIONIZING HEALTHCARE WITH LARGE LANGUAGE MODELS",
+    "note": "Healthcare LLM review: FL mentioned only as future direction; no TS or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "KGI5M2ZJ",
+    "title": "Federated Transfer Learning for On-Device LLMs Efficient Fine Tuning Optimization",
+    "note": "NO: FL + LLM fine-tuning for medical NLP. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "HDBX9BF4",
+    "title": "Liver Cancer Detection: A Review of Artificial Intelligence Techniques",
+    "note": "Medical imaging for liver cancer. No FL, FM, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "AWFU5F7Z",
+    "title": "Application of Convolutional Neural Networks and Recurrent Neural Networks in Food Safety",
+    "note": "Review on CNNs/RNNs in food safety. No FL or industrial IoT.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "K7D7WBK7",
+    "title": "Efficiently Integrate Large Language Models with Visual Perception: A Survey from the Training Paradigm Perspective",
+    "note": "Vision-LLM integration; no time-series, PdM, or FL core focus.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "KEGVRUBY",
+    "title": "Edge-Optimized LSTM Framework for Blockchain-Enabled Supply Chain Monitoring",
+    "note": "FL + LSTM for supply chain. Application is logistics, not industrial PdM.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "IFG9ZLEE",
+    "title": "Challenges, optimization strategies, and future horizons of advanced deep learning approaches for brain lesion segmentation",
+    "note": "Brain lesion segmentation; medical imaging, no relevant dimensions.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "R8H86V7V",
+    "title": "A Metamodel and Framework for Artificial General Intelligence From Theory to Practice",
+    "note": "AGI metamodel. Mentions FL and time series analysis as applications. Theoretical/conceptual. Not specific to any dimension.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "VHSCNVTE",
+    "title": "Proceedings - 2025 IEEE 16th International Symposium on Autonomous Decentralized Systems, ISADS 2025",
+    "note": "NO: Conference proceedings. No substantive contribution.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "JSRJ7LFW",
+    "title": "Grounding Foundation Models through Federated Transfer Learning: A General Framework",
+    "note": "NO: FL + FM framework. NLP/CV focus. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "I3GB2IQ3",
+    "title": "The Role of Federated Learning in a Wireless World with Foundation Models",
+    "note": "NO: FL + FM for wireless networks. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "FJ7PVNM2_title_conflict",
+    "note": "SKIPPED - duplicate entry error, see YES list for FJ7PVNM2",
+    "_batch": 12,
+    "_category": "no"
+  },
+  {
+    "key": "YYLTEPFH",
+    "title": "Proceedings of ASME 2025 19th International Conference on Energy Sustainability, ES 2025",
+    "note": "Conference proceedings. Abstract is a table of contents listing multiple papers. One paper mentions FL for wind condition monitoring but cannot assess as a single paper.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "DWNWPIVG",
+    "title": "Improving Asset Information Management in the Oil & Gas Sector: A Comprehensive Review",
+    "note": "Oil & gas data management with ML. FL mentioned as one model tested. Core focus is asset information management, not PdM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "QZY6ZZK5",
+    "title": "Federated Fine-Tuning of LLMs on the Very Edge: The Good, the Bad, the Ugly",
+    "note": "NO: FL + FM (FLAN-T5) edge deployment. Energy efficiency focus. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "4TD7PZAY",
+    "title": "GAN-Based Federated Adversarial Learning for Enhancing Security Towards Consumer Digital Ecosystems",
+    "note": "FL + GAN for image security in consumer electronics. No TS or industrial context.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "U7CS8Z39",
+    "title": "A Survey of Machine Learning for Urban Decision Making: Applications in Planning, Transportation, and Healthcare",
+    "note": "ML for urban decision making; FL mentioned in tags only. No FM/TS/PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "2WH8X4IA",
+    "title": "Learning Federated Neural Graph Databases for Answering Complex Queries from Distributed Knowledge Graphs",
+    "note": "NO: FL + FM for knowledge graphs. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "8FFZBNBY",
+    "title": "A Secure and Efficient Framework for Multimodal Prediction Tasks in Cloud Computing with Sliding-Window Attention Mechanisms",
+    "note": "Attention mechanism for cloud computing security. Compares with FL but not FL-focused. Cloud computing, not industrial.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "2G2HV694",
+    "title": "Predicting infant brain connectivity with federated multi-trajectory GNNs using scarce data",
+    "note": "FL + GNN for brain connectivity prediction. Medical domain. 1 dimension (FL only).",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "GMBUU9QW",
+    "title": "A Review of the Opportunities and Challenges with Large Language Models in Radiology: The Road Ahead",
+    "note": "NO: LLMs in radiology review. FL mentioned briefly. Medical imaging, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "U62X5SZ8",
+    "title": "When IoT Meet LLMs: Applications and Challenges",
+    "note": "Review of LLM+IoT integration. Mentions PdM and condition monitoring for IIoT. Has PdM + FM (LLM) but no FL, no explicit time series analysis.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "5VVWGRY7",
+    "title": "Instruction Fine-Tuning Optimization for Large Language Models in Power Customer Service Question Answering Systems",
+    "note": "LLM fine-tuning for power customer service Q&A. No FL, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "3KSV67DC",
+    "title": "Generative Adversarial Networks for Synthetic Data Synthesis in Low-Resource Medical Imaging: A Comprehensive Review",
+    "note": "Medical imaging GANs. FL mentioned as future direction only. No TS or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "QNS3V7WY",
+    "title": "Artificial Intelligence in Accelerating Materials Discovery: Opportunities and Challenges",
+    "note": "NO: AI for materials science. FL mentioned briefly among many techniques. Not industrial PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "YIPK92Q4",
+    "title": "SSMGNN: Spectral temporal graph neural network with state space models for multivariate time-series forecasting",
+    "note": "MTS forecasting with state space models. No FL or FM. Single dimension: TS only.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "S8E7NGEP",
+    "title": "Towards Robust Federated Learning in IoT Systems: A Review of Fault-Tolerance Strategies",
+    "note": "FL fault tolerance in IoT. FL present. PdM mentioned as case study. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "73K34ENC",
+    "title": "Federated reinforcement learning-based multi-UAV cooperative dynamic caching replacement strategy",
+    "note": "FL + RL for UAV caching. No TS analysis or industrial context.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "YS89SW5Y",
+    "title": "Proactive Elastic Scaling for Online Service in Cloud Environments with Minimal Training Data",
+    "note": "Time series foundation model for cloud elasticity/scaling. FM+TS but no FL, no PdM. Not industrial PdM domain.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "28D23Z2X",
+    "title": "Overview of Speaker Modeling and Its Applications: From the Lens of Deep Speaker Representation Learning",
+    "note": "Speaker/audio modeling; not time-series analysis in the relevant sense.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "7INRRJS5",
+    "title": "CAFL: Conditional Attention Federated Learning for Image Emotion Analysis",
+    "note": "NO: FL + FM for image emotion analysis. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "DIAIAWGZ",
+    "title": "AI IN DEVOPS: A FRAMEWORK FOR PREDICTIVE MAINTENANCE AND AUTOMATED ISSUE RESOLUTION",
+    "note": "PdM for DevOps/IT infrastructure; LLMs mentioned but software systems, not industrial time-series.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "SFXF7QX4",
+    "title": "SemiSAM+: Rethinking semi-supervised medical image segmentation in the era of foundation models",
+    "note": "NO: FM (SAM) for medical image segmentation. No FL, no TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "H3JS9NNX",
+    "title": "FL@FM-TheWebConf'24: International Workshop on Federated Foundation Models for the Web",
+    "note": "NO: Workshop description. No substantive contribution.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "4R5SLJGA",
+    "title": "Generative AI in facility management: a structural topic modeling (STM) review with qualitative synthesis",
+    "note": "GenAI in facility management; PdM mentioned as one topic but no time-series focus.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "NKDVMF4R",
+    "title": "Machine Learning in Prognostics and Health Management of Cyber-Physical Systems: A Review",
+    "note": "PHM review. PdM strong but FL and FM (transformers/LLMs) only mentioned as emerging trends, not core methodology.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "PV5R65S8",
+    "title": "Incentive mechanism of foundation model enabled cross-silo federated learning",
+    "note": "NO: FL + FM (incentive mechanism). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "IJT59QG9",
+    "title": "SpaceTime: A Deep Similarity Defense Against Poisoning Attacks in Federated Learning",
+    "note": "FL security defense mechanism. No industrial application.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "CR6D3VRT",
+    "title": "FL-DPLoRA: An Integrated and Efficient Privacy-Preserving Training Framework for Large Language Models in Privacy-Critical Applications",
+    "note": "NO: FL + LLM for mental health detection NLP. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "HFAKNJ2Y",
+    "title": "A Survey on AI-Driven Techniques for Automated Medical Diagnosis and Consultation System",
+    "note": "NO: Medical AI survey. FL mentioned among many techniques. Medical diagnosis, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "9DBJA4SZ",
+    "title": "MAINTAG - Multi-Agent-based Predictive Maintenance Dataset Tagging System",
+    "note": "PdM+FM (LLM agents for dataset tagging) but no time-series analysis.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "RRP3BQMH",
+    "title": "Industrial Artificial Intelligence in Industry 4.0 - Systematic Review, Challenges and Outlook",
+    "year": "2020",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "QK7P6NKT_title_conflict",
+    "note": "SKIPPED - duplicate entry error, see YES list for QK7P6NKT",
+    "_batch": 12,
+    "_category": "no"
+  },
+  {
+    "key": "VQFLVTIS",
+    "title": "System Architectures for Data Exchange in a Regional Federated Digital Twin: A Case Study on Birmingham Smart City",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "3YNRJIK2",
+    "title": "LstFcFedLear: A LSTM-FC with Vertical Federated Learning Network for Fault Prediction",
+    "note": "FL + LSTM for fault prediction in firefighting IoT. PdM context but LSTM is not FM. 3 dimensions (FL+TS+PdM) but no FM \u2014 doesn't match P1-P7.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "D8DLAK7M",
+    "title": "A Review of Digital Twins in Smart Environments",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "FZPJ9VXY",
+    "title": "Modeling in Industry 4.0: Key Tools and Techniques for Optimization",
+    "note": "Industry 4.0 modeling with DT and FL. FL and PdM mentioned but broad technology review.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "Y6NWSMCR",
+    "title": "Smart Fault Detection, Classification, and Localization in Distribution Networks: AI-Driven Approaches and Emerging Technologies",
+    "note": "Power distribution fault detection with AI. No FL, FM, or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "8AYPFEJ5",
+    "title": "Advances in intelligent recognition and diagnosis of skin scar images: concepts, methods, challenges, and future trends",
+    "note": "Medical image analysis for dermatology; no relevant dimensions for this review.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "I2MYY7IH",
+    "title": "2025 International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics, IC3ECSBHI 2025",
+    "note": "Conference proceedings. Abstract lists topics but no specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "2B5QFM4D",
+    "title": "Parameter-Efficient Fine-Tuning of LLMs for Low-Power Sentiment Analysis Applications",
+    "note": "NLP: LoRA fine-tuning for sentiment analysis; no FL, TS, or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "2HHFC6IR",
+    "title": "FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection",
+    "note": "NO: FL + FM for medical tasks (ECG, chest X-ray, etc.). Medical benchmark, not industrial PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "UHV56VUC",
+    "title": "FEDKIM: Adaptive Federated Knowledge Injection into Medical Foundation Models",
+    "note": "NO: FL + FM for medical tasks. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "HJVVK9YV",
+    "title": "A Survey on Federated Unlearning: Challenges and Opportunities",
+    "note": "FL unlearning survey. FM mentioned tangentially in future directions. No core TS/PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "KDCF86UX",
+    "title": "Machine Learning-Driven Advancements in Electric Motorcycles: A Systematic Review of Electric Motors, Energy Storage, Charging Technologies, and Electronic Components",
+    "note": "ML for electric motorcycles. FL and PdM mentioned but not core focus.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "UJ98SFBK",
+    "title": "Harmonizing Generalization and Specialization: Uncertainty-Informed Collaborative Learning for Semi-supervised Medical Image Segmentation",
+    "note": "Vision FM for medical segmentation. Collaborative learning (not FL). No TS or PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "CRX4NA8F",
+    "title": "SAFedHDM: Semi-asynchronous federated learning with highlight diffusion model for medical image segmentation",
+    "note": "NO: FL + FM (diffusion model) for medical image segmentation. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "4Q7MLE8L",
+    "title": "Imbalance class problem : an analytical mapping using spreadsheet, VOSviewer, and large language models",
+    "note": "Class imbalance scientometric analysis; PdM mentioned as application domain but not core.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "EL8A6RF6",
+    "title": "Curriculum Learning in Medical Image Analysis",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "95QG8UZH",
+    "title": "Analyzing Collective Imagination: A Complex Systems Approach",
+    "note": "Education research on collaborative learning. No FL, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "8RKR92D4",
+    "title": "Federated Learning-Based Futuristic Fault Diagnosis and Standardization in Rotating Machinery",
+    "note": "FL for rotating machinery fault diagnosis. FL + fault diagnosis but no FM or TS focus.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "Q7W4XUWM",
+    "title": "Federated Learning for Predictive Maintenance: A Survey of Methods, Applications, and Challenges",
+    "note": "FL for PdM survey. FL + PdM present. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "JCKHI7FX",
+    "title": "Data Analytics in the Internet of Things Era: Tools, Approaches, Challenges, and Solutions",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "8YRI5I89",
+    "title": "A Survey on Intelligent Network Operations and Performance Optimization Based on Large Language Models",
+    "note": "Survey on LLMs for telecom network operations - not industrial PdM domain",
+    "_batch": 7,
+    "_category": "no"
+  },
+  {
+    "key": "KEVXABQE",
+    "title": "Flower: Federated Learning Based Zero-Trust Consensus Protocol for Real-Time Trajectory Endorsement in Cavs",
+    "note": "CAV trajectory verification; not time series analysis or PdM domain",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "9L22W5X5",
+    "title": "Generative AI in Focus : A Comprehensive Review of Leading Models Across Modalities",
+    "note": "General GenAI review across text/image/audio. No FL, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "G9WIU3HZ",
+    "title": "Application of Federated Learning Approaches for Time-Series Classification in eHealth Domain",
+    "note": "FL + time series classification for e-health (hypertension risk). Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "7R8ES8CA",
+    "title": "Understanding the Role of Layer Normalization in Label-Skewed Federated Learning",
+    "note": "NO: FL theory only (layer normalization analysis). No FM, no TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "4D7YQS4Y",
+    "title": "User Behavior Analysis in Privacy Protection with Large Language Models: A Study on Privacy Preferences with Limited Data",
+    "note": "NO: FL + LLM for privacy preference modeling. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "QTZ99QHR",
+    "title": "Proceedings of the 5th International Conference on Data Intelligence and Cognitive Informatics, ICDICI 2024",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "2FMIHMCY",
+    "title": "Proceedings - ICACSIS 2022: 14th International Conference on Advanced Computer Science and Information Systems",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "TMTWN4WB",
+    "title": "Machine Learning for Financial Risk Management: A Survey",
+    "note": "Financial risk management with ML. No FL, FM, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "BMHQCSWB",
+    "title": "Hybrid foundation models: An investigation of foundation anatomy model and foundation segmentation model (FAM-FSM) on thoracic CT images",
+    "note": "Medical imaging: hybrid FM for CT segmentation; explicitly states not using FL",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "UXIUNSJC",
+    "title": "Lightweight Privacy-Preserving Anomaly Detection for Time Series Based on Federated Learning",
+    "note": "FL + anomaly detection for time series. General purpose. 2 dimensions (FL+TS) but no FM, no PdM, not industrial.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "FV6FBGKS",
+    "title": "Society of Petroleum Engineers - SPE Europe Energy Conference and Exhibition, EURO 2025",
+    "note": "Conference proceedings. FL briefly mentioned among many topics, no specific relevant paper.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "696MS64H",
+    "title": "A Survey on the Applications of Frontier AI, Foundation Models, and Large Language Models to Intelligent Transportation Systems",
+    "year": "2023",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "WTXYW5ZS",
+    "title": "Foundation model-driven distributed learning for enhanced retinal age prediction",
+    "note": "NO: FL + FM (RETFound) for retinal age prediction. Medical imaging. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "3785UEX5",
+    "title": "FL@FM-TheWebConf'25: International Workshop on Federated Foundation Models for the Web",
+    "note": "Workshop description: no research contribution",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "C8WY8U84",
+    "title": "Interpretable machine learning for weather and climate prediction: A review",
+    "note": "Weather/climate ML interpretability; no FM for time-series or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "46SGGW2I",
+    "title": "The Impact of Data Analytics Based on Internet of Things, Edge Computing, and Artificial Intelligence on Energy Efficiency in Smart Environment",
+    "note": "IoT/edge/AI for energy efficiency. FL and PdM mentioned but as part of broad technology survey.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "2Z5QLCSV",
+    "title": "Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions",
+    "note": "NO: FL + LLM framework comparison. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "BEBIKI9U",
+    "title": "Distributed Foundation Models for Multi-Modal Learning in 6G Wireless Networks",
+    "note": "NO: FL + FM for 6G networks. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "UQAVFWRM",
+    "title": "AI-Driven Anomaly and Intrusion Detection in Energy Systems: Current Trends and Future Direction",
+    "note": "Energy cybersecurity anomaly/intrusion detection. No FL, FM, or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "EEIGTSDF",
+    "title": "Federated unsupervised semantic segmentation",
+    "note": "NO: FL + FM for image segmentation. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "BHVYUBXY",
+    "title": "Spatiotemporal masked pre-training for advancing crop mapping on satellite image time series with limited labels",
+    "note": "Self-supervised learning for crop mapping from satellite imagery. Agricultural domain.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "7T9JB6GY",
+    "title": "Innovative AI strategies for enhancing smart building operations through digital twins: A survey",
+    "note": "Digital twins for smart buildings; anomaly detection mentioned but building management, not PdM of industrial equipment.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "QRKGNJQ5",
+    "title": "Deep Learning Forecasting of Renewable Energy Generation Patterns",
+    "note": "DL for renewable energy forecasting. FL and Transformers mentioned as future directions only.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "2KLGVX6N",
+    "title": "Proceedings of ASME 2024 18th International Conference on Energy Sustainability, ES 2024",
+    "note": "Conference proceedings. Energy focus. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "DRCWYLFH",
+    "title": "Data Correlation Analysis of Research Route Planning Based on Data Mining",
+    "note": "Data mining for research planning. FL mentioned in tags only, not in abstract. No industrial context.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "D66MRQN5",
+    "title": "Research Status and Development Trends of Artificial Intelligence in Smart Agriculture",
+    "note": "AI in smart agriculture; PdM for agricultural equipment mentioned but no FM/TS.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "X7QVR6E5",
+    "title": "Metadata-enhanced contrastive learning from retinal optical coherence tomography images",
+    "note": "Medical image analysis (retinal OCT). Contrastive learning on longitudinal images, not time series foundation models or TS analysis.",
+    "_batch": 13,
+    "_category": "no"
+  },
+  {
+    "key": "GDMGBKMK",
+    "title": "Proceedings - 2024 IEEE 10th International Conference on Intelligent Data and Security, IDS 2024",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "3DP5MZV9",
+    "title": "Large language models: The outlook for next-generation AI applications in power grid",
+    "note": "LLM applications in power grid. Mentions equipment O&M but LLM used for NLP tasks, not time-series FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "PWLCNU8V",
+    "title": "Using Machine Learning to Optimize Resource Allocation and Management Strategies in Colleges and Universities",
+    "note": "Education resource management using ML. No foundation models, no time series analysis in relevant domain, no FL or PdM.",
+    "_batch": 13,
+    "_category": "no"
+  },
+  {
+    "key": "FRI49JAH",
+    "title": "A Novel Approach to Efficient Multilabel Text Classification: BERT-Federated Learning Fusion",
+    "note": "FL + NLP: BERT with FL for text classification; no TS or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "X6WCW6UZ",
+    "title": "FedBaF: Federated Learning Aggregation Biased by a Foundation Model",
+    "note": "NO: FL+FM framework paper. No time-series or PdM application.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "3R2BNEES",
+    "title": "Efficient Asynchronous Federated Learning for AUV Swarm",
+    "note": "FL for autonomous underwater vehicle swarm. Underwater robotics, not industrial PdM. 1 dimension (FL only).",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "YNSN8BW7",
+    "title": "A Survey on Wi-Fi Sensing Generalizability: Taxonomy, Techniques, Datasets, and Future Research Prospects",
+    "note": "Wi-Fi sensing survey. FL and FM mentioned as techniques among many. Not core FM/TS/PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "I5IR9VJK",
+    "title": "Blockchain-Integrated Edge-Cloud-Enabled Healthcare Data Analytics Based on Distributed Federated Learning and Deep Neural Networks",
+    "note": "FL + blockchain for healthcare. Medical domain.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "6836GQPP",
+    "title": "Proceedings of 2025 International Conference on Artificial Intelligence and Foundation Model, AIFM 2025",
+    "note": "Conference proceedings, not a single paper. Contains 28 papers.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "WQZPZJ8M",
+    "title": "FedKDD 2025: The 2025 International Joint Workshop on Federated Learning for Data Mining and Graph Analytics",
+    "note": "NO: Workshop announcement. No substantive contribution.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "QKARVS3S",
+    "title": "Building energy management and data analytics",
+    "note": "Building energy management. Data analytics for fault detection but no FL, FM, or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "ZYEMMZVV",
+    "title": "Enhancing smart grid load forecasting: An attention-based deep learning model integrated with federated learning and XAI for security and interpretability",
+    "note": "FL + 1D-CNN-GRU for smart grid load forecasting. Energy forecasting, not PdM. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "JVX8BGFE",
+    "title": "LogEval: A comprehensive benchmark suite for LLMs in log analysis",
+    "note": "Benchmark for LLMs in IT log analysis (AIOps) - not industrial PdM",
+    "_batch": 7,
+    "_category": "no"
+  },
+  {
+    "key": "53VIT6QA",
+    "title": "Artificial Intelligence in Medical Diagnostics: Foundations, Clinical Applications, and Future Directions",
+    "note": "NO: AI in medical diagnostics review. FL and FM mentioned. Medical, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "GDEUVY46",
+    "title": "A System for Time Series Feature Extraction in Federated Learning",
+    "note": "FL + time series feature extraction for recommender systems. General. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "6ANSJ848",
+    "title": "Enabling Dataspaces Using Foundation Models: Technical, Legal and Ethical Considerations and Future Trends",
+    "note": "Conceptual paper on FM repositories in dataspace. FL barely mentioned. No TS or PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "QMNZG5T2",
+    "title": "Machine learning applications in climate finance: An overview",
+    "note": "Review of ML in climate finance. Mentions FL and time series as techniques. Financial domain. Not focused on any specific dimension.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "C7GRBE4X",
+    "title": "Position: Considerations for Differentially Private Learning with Large-Scale Public Pretraining",
+    "note": "Differential privacy position paper; FL mentioned tangentially but no FM/TS/PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "I2BJ8Q3M",
+    "title": "Review of multimodal machine learning approaches in healthcare",
+    "note": "Multimodal ML in healthcare; time series mentioned as one modality but no FM or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "3NV84SZE",
+    "title": "FedLMA: A Federated Learning Framework Integrating LLM-Based Multi-Agent Reasoning With Knowledge Distillation",
+    "note": "FL + LLM: multi-agent FL with knowledge distillation; no TS or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "BMMCXRXS",
+    "title": "Metamorphic Testing of Large Language Models for Natural Language Processing",
+    "note": "Testing methodology for NLP LLMs. No FL, FM (time-series), TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "2PX6HYRW",
+    "title": "Erratum to: Artificial intelligence in cardiovascular imaging and intervention",
+    "note": "NO: Erratum (correction notice). No substantive content.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "X8Y3JDHT",
+    "title": "Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration",
+    "note": "NO: FL + FM for embodied AI (robots, edge). No TS analysis, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "QPEUJDBS",
+    "title": "Intelligent Predictive Maintenance for Smart Building Systems",
+    "note": "IPM for smart buildings. FL mentioned for anomaly detection. PdM strong but no FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "2WPP4J4C",
+    "title": "Utilizing Deep Learning and Advanced Machine Learning Methods in Economic Data Analysis",
+    "note": "Economic data analysis with time series; no FM or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "FB5FA622",
+    "title": "Bringing multi-modal multi-task federated foundation models to education domain: prospects and challenges",
+    "note": "NO: FL + FM for education. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "5AK5Y5FN",
+    "title": "A Comprehensive Review on Dataset Pruning for Medical Imaging",
+    "note": "Dataset pruning for medical imaging. FL/FM mentioned as emerging trends only.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "4FI26BFT",
+    "title": "A Systematic Literature Review of Supervised Machine Learning Techniques for Predictive Maintenance in Industry 4.0",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "3XWQ253Y",
+    "title": "A new distributed decomposition-reconstruction-ensemble learning paradigm for short-term wind power prediction",
+    "note": "FL + VMD for wind power forecasting. Energy domain. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "Z3MWFGAV",
+    "title": "Survey on AI technologies aiding multicast and broadcast services in 5G and 6G",
+    "note": "NO: AI for 5G/6G multicast. FL mentioned. Telecom, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "V7DNM8KA",
+    "title": "Remote Sensing of Woody Plant Encroachment: A Global Systematic Review of Drivers, Ecological Impacts, Methods, and Emerging Innovations",
+    "note": "Remote sensing for ecology; no relevant dimensions.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "EMTDDP5S",
+    "title": "LG-BiTCN: A Lightweight Malicious Traffic Detection Model Based on Federated Learning for Internet of Things",
+    "note": "FL + temporal convolutional network for IoT network traffic cybersecurity. 2 dimensions (FL+TS) but cybersecurity, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "DB3YDC2S",
+    "title": "AI-powered wearable sensors for health monitoring and clinical decision making",
+    "note": "Wearable health sensors; FL mentioned but medical domain, no time-series FM or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "SLDRFEUI",
+    "title": "Digital Twins in 2025: A Comprehensive Review of Current Trends, Challenges, and Future Directions",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "WDGDBR9E",
+    "title": "Review of deep representation learning techniques for brain-computer interfaces",
+    "note": "BCI/EEG representation learning; FL mentioned in tags but not core. Medical domain, no time-series FM or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "537LB3A2",
+    "title": "Vibroacoustic Methods for Wheel-Flat Detection: Toward Safer and More Energy-Efficient Rail Transport\u2014A Review",
+    "note": "Railway wheel-flat detection. FL and PdM mentioned. Vibration time-series data but not TS core focus.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "6XIWLEEW",
+    "title": "Toward Integrating Federated Learning With Split Learning via Spatio-Temporal Graph Framework for Brain Disease Prediction",
+    "note": "Medical domain (fMRI brain disease prediction); not industrial/PdM/TS analysis",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "RFXFS7KN",
+    "title": "Large Language Model Applications in Power Systems: A Comprehensive Review and Outlook",
+    "note": "LLM applications in power systems. NLP-focused, not time-series FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "FGQCLXQ7",
+    "title": "Advances in AI-Driven Big Data Technologies: A Five-Year Review",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "NG3WY4G7",
+    "title": "AI and Blockchain Synergy in Aerospace Engineering: An Impact Survey on Operational Efficiency and Technological Challenges",
+    "year": "2023",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "9EDCB4MP",
+    "title": "Proceedings of the 2025 28th International Conference on Computer Supported Cooperative Work in Design, CSCWD 2025",
+    "note": "NO: Conference proceedings. No substantive contribution.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "HY7VD2SM",
+    "title": "A Systematic Literature Review of Large Language Model Applications in Industry",
+    "note": "Broad LLM industry applications review using Porter's value chain. No specific FL, TS, or PdM focus.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "IXPRHPAD",
+    "title": "Enabling Privacy-Preserving and Drop-Out Resilient Federated LLM Fine-Tuning for Low-Altitude UAV Swarm Networks",
+    "note": "FL + LLM: federated LLM fine-tuning for UAV swarms; no TS or PdM",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "Z649YCVK",
+    "title": "Data mining in pediatric radiology in the era of artificial intelligence",
+    "note": "NO: AI/data mining in pediatric radiology. FL and FM mentioned. Medical, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "AF4PXENU",
+    "title": "A Systematic Review of Ml in Its: a Taxonomy From Traditional Models to Federated Learning",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "TG5R3YGY",
+    "title": "Personalizing Federated Learning Models: Methods, Applications, and Challenges in Healthcare 5.0",
+    "note": "NO: FL + FM for healthcare (medical imaging). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "SEGYVHT6",
+    "title": "2022 IFIP Networking Conference, IFIP Networking 2022",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "GZEZ8BVV",
+    "title": "Proceedings - 2024 IEEE 10th International Conference on Collaboration and Internet Computing, CIC 2024",
+    "note": "Conference proceedings abstract. No specific relevant content.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "9LDKMD5R",
+    "title": "Artificial intelligence in clinical data analysis: A review of large language models, foundation models, digital twins, and allergy applications",
+    "note": "Clinical AI with FM and time-series modeling. Medical domain, not industrial. No FL or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "VCWBTIWG",
+    "title": "FedKDD: International Joint Workshop on Federated Learning for Data Mining and Graph Analytics",
+    "note": "NO: Workshop description. No substantive contribution.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "AGBLHIP8",
+    "title": "Federated Adaptation for Foundation Model-based Recommendations",
+    "note": "NO: FL + FM for recommendation systems. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "G8RP37RB",
+    "title": "Multimodal Vision\u2013Language Models in Medical Imaging: A Survey of Retrieval, Interpretability, and Trust",
+    "note": "Medical VLMs for radiology. Not time-series FM. No FL, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "FVDL4DL7",
+    "title": "Integrating big data and artificial intelligence to predict progression in multiple sclerosis: challenges and the path forward",
+    "note": "NO: AI for multiple sclerosis prognosis. FL and FM mentioned. Medical, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "42DLDK9T",
+    "title": "FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous Federated Learning",
+    "note": "NO: FL + FM (vision-language fine-tuning). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "3G5ZRMPW",
+    "title": "Accurate and Interpretable Log-Based Fault Diagnosis Using Large Language Models",
+    "note": "LLM for log-based fault diagnosis. Software/IT systems, not physical equipment. FM only.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "G52UZDZ9",
+    "title": "PPML-TSA: A modular privacy-preserving time series classification framework",
+    "note": "FL + DP framework for time series classification. General toolkit. 2 dimensions (FL+TS) but no FM, no PdM, not industrial.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "7N76Z8CA",
+    "title": "The privacy-explainability trade-off: unraveling the impacts of differential privacy and federated learning on attribution methods",
+    "note": "FL + DP effects on XAI. General study on privacy-explainability trade-off. Not domain-specific.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "K5K5KGCV",
+    "title": "DACFL: Dynamic Average Consensus-Based Federated Learning in Decentralized Sensors Network",
+    "note": "FL in decentralized sensor networks. General FL algorithm contribution. 1 dimension (FL only).",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "M8PMQKIL",
+    "title": "Federated learning in oncology: Bridging artificial intelligence innovation and privacy protection",
+    "note": "NO: FL survey for oncology. Medical, not PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "HBPEVNKB",
+    "title": "MobiFM: A Foundation Model for Mobile Data Forecasting",
+    "note": "Foundation model (diffusion+Transformer) for mobile network data forecasting. FM+TS but no FL, no PdM. Telecom domain, not industrial.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "8FWIMMZG",
+    "title": "A Survey of Few-Shot Learning for Biomedical Time Series",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "BZCCDXBT",
+    "title": "Federated Learning Approaches for Decentralized Data Processing in Edge Computing",
+    "year": "2024",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "2CDFZNUT",
+    "title": "Intelligent Operational Risk Management Using the Enhanced FMEA Method and Artificial Intelligence\u2014A Case Study",
+    "note": "LLM-enhanced FMEA for risk management; predictive maintenance mentioned but no time-series analysis.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "UDPT8AYY",
+    "title": "Mobile Edge Intelligence for Large Language Models: A Contemporary Survey",
+    "note": "Edge deployment of LLMs. NLP-focused, not time-series FM. No FL, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "MDDQ24P4",
+    "title": "From pretraining to privacy: federated ultrasound foundation model with self-supervised learning",
+    "note": "NO: FL + FM for medical imaging (ultrasound). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "CC5UIFFJ",
+    "title": "Medical Image Segmentation Using Transformer Encoders and Prompt-Based Learning: A Systematic Review of Adaptation Strategies, Performance, and Challenges",
+    "note": "SAM-based medical image segmentation. Vision FM for images, not time-series. No FL, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "28GBLTXC",
+    "title": "Perception and Prediction of Factors Influencing Carbon Price: Multisource, Spatiotemporal, Hierated Federated Learning Framework with Cross-Modal Feature Fusion",
+    "note": "FL for carbon price forecasting. Financial/environmental domain. 2 dimensions (FL+TS) but financial, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "RWXDRQL9",
+    "title": "A Survey of Forecasting Methods for Irregular Time Series",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "5LEI2RSA",
+    "title": "Federated deep contrastive learning for mid-term natural gas demand forecasting",
+    "note": "FL + contrastive learning for gas demand forecasting. Energy/utility domain. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "ZK7RWJII",
+    "title": "Digital Twins as a Framework for IoT Applications: A Review",
+    "year": "2023",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "2S4346F4",
+    "title": "Federated Learning Solution Blueprints for Use Cases Surveyed in Austrian Industries",
+    "year": "2024",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "M6JHNMHZ",
+    "title": "A review of fault diagnosis and prognosis for oil pumping machines",
+    "note": "PdM for oil pumping; mentions LLM-based techniques but primarily signal-based methods.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "C9I78KUN",
+    "title": "A Review of AWS IoT: Architecture, Applications, and Research Directions",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "6MTZ4GKE",
+    "title": "A Modular Architecture for Agentic Decision-Making in Industrial Analytics",
+    "note": "Agentic AI for business intelligence with IoT sensor data. Industrial analytics context but no FL, FM, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "EWCNFJDB",
+    "title": "On Disentanglement of Asymmetrical Knowledge Transfer for Modality-Task Agnostic Federated Learning",
+    "note": "NO: FL + FM for multimodal learning. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "3FDC8GLB",
+    "title": "Condition Monitoring and Predictive Maintenance in Industrial Equipment: An NLP-Assisted Review of Signal Processing, Hybrid Models, and Implementation Challenges",
+    "note": "PdM+TS (signal processing, RUL) but no foundation models discussed.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "KPT6PS7T",
+    "title": "BiTSA: Leveraging Time Series Foundation Model for Building Energy Analytics",
+    "note": "Time series foundation model for building energy management/visualization. FM+TS but no FL, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "U9VIBJ9N",
+    "title": "Local Cloud-Based Collaborative Learning vs Other IIoT Decentralized AI Solutions: A Systematic Literature Review",
+    "note": "IIoT collaborative learning for PdM. FL present with PdM. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "48T6KQ3M",
+    "title": "A Comprehensive Review of Public Datasets for Machine Learning-Based Intrusion Detection in IoT and OT Networks",
+    "note": "IoT/OT intrusion detection dataset review. Tags mention TS but no FL or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "ABCY7C3T",
+    "title": "Design of an improved graph-based model for real-time anomaly detection in healthcare using hybrid CNN-LSTM and federated learning",
+    "note": "FL + CNN-LSTM for healthcare anomaly detection. Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "CQFR8K9X",
+    "title": "Complexity Science and Cyber Operations: A Literature Survey",
+    "year": "2023",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "B5J4LG6H",
+    "title": "Analysis of Model Merging Methods for Continual Updating of Foundation Models in Distributed Data Settings",
+    "note": "NO: FL + FM (model merging for CLIP). Image classification. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "84FHWGSD",
+    "title": "Recent Advances of Foundation Language Models-based Continual Learning: A Survey",
+    "note": "Continual learning for language models (NLP/vision); not time-series or industrial.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "QXWCDFV3",
+    "title": "Ark+: Supervised training a single high-performance AI foundation model from many differently labeled datasets",
+    "note": "NO: FM for medical imaging (chest radiography). FL mentioned. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "2XKNACQX",
+    "title": "A future prediction for cyber-attacks in the network domain with the visualisation of patterns in cyber-security tickets with machine learning",
+    "note": "Cybersecurity ticket classification; time series mentioned but superficial. No FM or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "BX865VPV",
+    "title": "Progressive search personalization and privacy protection using federated learning",
+    "note": "FL for search personalization. Not industrial IoT.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "WYESA6CF",
+    "title": "Federated LSTM-Based Chronic Disease Risk Prediction Using Wearable Time-Series Data and Differential Privacy Optimization",
+    "note": "FL + LSTM for chronic disease prediction from wearables. Healthcare domain.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "K3PDFUA4",
+    "title": "Digital Twin Technology in Wireless Communication: A Comprehensive Engineering Survey",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "DEDPDIGH",
+    "title": "A Survey of Transformer Enabled Time Series Synthesis",
+    "year": "2024",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "M82TPVTC",
+    "title": "Multi-Cloud Data Engineering for Scalable GenAI-Driven Medical Insurance Analytics",
+    "note": "Multi-cloud framework for insurance analytics. FL/FM mentioned peripherally. No TS or PdM.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "IW83CFJH",
+    "title": "Deep learning advancements for cardiovascular diseases (CVDs) diagnosis",
+    "note": "Medical imaging: DL for cardiovascular disease; FL and FM mentioned only as future directions",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "NMVBSWEM",
+    "title": "A Taxonomy and Resolution Strategy for Client-Level Disagreements in Federated Learning",
+    "note": "FL only (1 core): FL client disagreements taxonomy; N-CMAPSS used only as evaluation dataset, not PdM focus",
+    "_batch": 3,
+    "_category": "no"
+  },
+  {
+    "key": "BENLPJQT",
+    "title": "Enhancing Foundation Models with Federated Domain Knowledge Infusion",
+    "note": "NO: FL + FM (CLIP domain adaptation). Image classification. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "YJ3GIAMN",
+    "title": "Artificial Intelligence and Biosensors in Healthcare and Its Clinical Relevance: A Review",
+    "note": "Healthcare AI/biosensors. FL and physiological time-series mentioned but in medical context.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "5M5X8HSI",
+    "title": "2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence, CCAI 2023",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "CKQUYWCD",
+    "title": "The Future of Availability: Integration of AI in RAM Operations",
+    "note": "AI in reliability/availability/maintainability. PdM tangentially mentioned but core focus is RAM operations broadly. No FL, FM, or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "T4437NEH",
+    "title": "2024 5th IEEE Global Conference for Advancement in Technology, GCAT 2024",
+    "note": "Conference proceedings. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "8WI5AR83",
+    "title": "Visual and textual spaces both matter: Taming CLIP for non-IID federated medical image classification",
+    "note": "NO: FL + FM (CLIP) for medical imaging. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "ZQW6P48T",
+    "title": "Toward a personalized autonomous transportation system: Vision, challenges, and solutions",
+    "note": "NO: FL + FM for autonomous transportation. No TS analysis, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "BXYV3DPV",
+    "title": "Multi-Participant Vertical Federated Learning Based Time Series Prediction",
+    "note": "Vertical FL + GRU for time series prediction (stock/benchmark). General VFL. 2 dimensions (FL+TS) but no FM, no PdM.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "SW53U62J",
+    "title": "Taming Vision-Language Models for Federated Foundation Models on Heterogeneous Medical Imaging Modalities",
+    "note": "NO: FL + FM (CLIP) for medical image classification. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "WN2UJGID",
+    "title": "Edge-Cloud Polarization and Collaboration: A Comprehensive Survey for AI",
+    "note": "General edge-cloud AI architecture survey. Mentions pretrained models but not as time-series FMs. No FL, TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "TG8TKT2N",
+    "title": "Multi-Modal Longitudinal Representation Learning for Predicting Neoadjuvant Therapy Response in Breast Cancer Treatment",
+    "note": "Medical imaging for breast cancer treatment response prediction. Temporal foundation model for longitudinal medical images, not industrial time series.",
+    "_batch": 13,
+    "_category": "no"
+  },
+  {
+    "key": "I99KMCRL",
+    "title": "A Review with a Novel Perspective on IoT Evolution, Technical Architecture, Applications, and Challenges-Solutions",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "JGEHMRBW",
+    "title": "Security Challenges in AI Systems: A Comprehensive Survey for Sustainable AI Development",
+    "note": "AI security survey. FL mentioned as one defense mechanism among many. No TS or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "2X74INE5",
+    "title": "Survey on Advancements in Machine Learning for Natural Language Processing",
+    "note": "NLP survey; LLM-only, not applied to time-series/sensor/industrial data.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "EYJ49VTC",
+    "title": "FedPFT: Federated Proxy Fine-Tuning of Foundation Models",
+    "note": "NO: FL + FM fine-tuning. Text and vision tasks. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "BFQ4GHM3",
+    "title": "De-accumulated error collaborative learning framework for predicting Alzheimer's disease progression",
+    "note": "Collaborative learning for Alzheimer's prediction. Medical domain.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "HAKEGI4R",
+    "title": "Graph neural networks for recommendation systems: A Survey and future directions",
+    "note": "GNN recommendation systems. Tags include FL and TS but paper focuses on recommender systems, not industrial time-series or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "6ITNPVPN",
+    "title": "Digital Twins in Manufacturing: Analysis of Challenges, Successes, and Future Advances",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "L9F9MGJY",
+    "title": "Personalized Recommendation Models in Federated Settings: A Survey",
+    "year": "2025",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "IUD2YV6N",
+    "title": "A Comprehensive Review on Humanoid Robots: Perspectives from Academia and Industry",
+    "note": "Humanoid robotics survey. Foundation model integration mentioned but for robotics, not time-series.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "ZWMQD6Q7",
+    "title": "EuroMLSys 2024 - Proceedings of the 2024 4th Workshop on Machine Learning and Systems",
+    "note": "Workshop proceedings, not a single paper. Contains 26 papers on ML systems topics.",
+    "_batch": 1,
+    "_category": "no"
+  },
+  {
+    "key": "SWXPVYFE",
+    "title": "Highly efficient homomorphic encryption-based federated learning for diabetic retinopathy classification",
+    "note": "NO: FL + FM (RETFound) for diabetic retinopathy. Medical imaging, no TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "YGN8CX39",
+    "title": "Research Progress on the Reliability of Aircraft Emergency Hatch Ejection Drive Mechanisms Integrated with Artificial Intelligence",
+    "note": "Aircraft mechanism reliability with AI. FL and PdM mentioned but aviation-specific, not general industrial PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "TEC5KBCU",
+    "title": "Application of foundation models for autonomous driving: a survey of data synthesis",
+    "note": "Autonomous driving data synthesis; no FL, TS, or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "KQ3Q5YZ5",
+    "title": "MSR-GAN: multi-scales decomposition representations for unsupervised anomaly detection",
+    "note": "TS anomaly detection with GAN. No FL or FM.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "IPMQGKR6",
+    "title": "FedSat-LAM: Enabling Large AI Models on Resource-Constrained Satellites via Hierarchical Federated Learning",
+    "note": "NO: FL + FM for satellite edge computing. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "RYZZUC85",
+    "title": "Fault diagnosis method for elevator carriages based on temporal generative federated distillation",
+    "note": "FL + TimeGAN for elevator fault diagnosis. Industrial PdM context but TimeGAN is generative model, not FM (not pretrained/foundation). 3 dimensions (FL+TS+PdM) but no FM \u2014 doesn't match P1-P7.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "SY93A9DV",
+    "title": "From Industrial Automation to Intelligent Automation: The Impact of IIoT on Process Control - A Review",
+    "note": "IIoT automation survey. FL mentioned as one technique among many. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "NW8K58H5",
+    "title": "Collaboration Analytics in Higher Education and Professional Contexts: A Systematic Review",
+    "note": "Education analytics review. No relevant dimensions.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "TQCQRDDI",
+    "title": "Federated Adaptive Prompt Tuning for Multi-Domain Collaborative Learning",
+    "note": "NO: FL + FM (CLIP prompt tuning). Image classification. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "SPEZ2ESW",
+    "title": "FedPIA - Permuting and Integrating Adapters Leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning",
+    "note": "NO: FL + FM (vision-language adapters). Medical imaging tasks. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "FCI7UBNS",
+    "title": "Foundation Models Meet Federated Learning: A One-shot Feature-sharing Method with Privacy and Performance Guarantees",
+    "note": "NO: FL + FM (one-shot feature sharing). Vision tasks. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "3LSIJIFJ",
+    "title": "FedRLEA: Federated Aggregation of Parallel SLMs with RL-Based Prompt Optimization for Smart Enterprise Architecture",
+    "note": "NO: FL + SLMs for enterprise architecture. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "IR2L532F",
+    "title": "A Comprehensive Survey of Electric Vehicle Charging Demand Forecasting Techniques",
+    "note": "EV demand forecasting. Time-series forecasting present but no FL or FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "4TLPG6J2",
+    "title": "Deep Learning in Healthcare",
+    "note": "Healthcare deep learning review. FL and TS mentioned but in medical context (physiological signals). No PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "SDQZVIZD",
+    "title": "Toward Agentic AI Networking in 6G: A Generative Foundation Model-as-Agent Approach",
+    "note": "NO: FL + FM for 6G networking. Industrial automation mentioned as one scenario but paper is fundamentally about networking architecture. No TS analysis, no PdM focus.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "9E4RLEL7",
+    "title": "AI Applications in Tailings and Waste Management: Improving Safety, Recycling, and Water Utilization",
+    "note": "AI for mining tailings management. FL mentioned. No TS or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "7NI29VSD",
+    "title": "Porous rock permeability quantification: A superpixel-driven graph neural network method for pore region analysis",
+    "note": "GNN for rock permeability. Geological domain, no FL or FM.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "KQKMER77",
+    "title": "Robot learning in the era of foundation models: a survey",
+    "note": "Robot learning with foundation models; manipulation/navigation, not time-series or PdM.",
+    "_batch": 11,
+    "_category": "no"
+  },
+  {
+    "key": "9TXVJRA5",
+    "title": "ICSED 2021 - 2021 3rd International Conference on Software Engineering and Development",
+    "note": "Conference proceedings. Software engineering focus. No specific paper to evaluate.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "ECA4E7UB",
+    "title": "Data Poisoning Vulnerabilities Across Health Care AI Architectures: Analytical Security Framework and Defense Strategies",
+    "note": "NO: Security analysis of healthcare AI. FL mentioned as one architecture. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "DII9EED2",
+    "title": "Ride-hailing pick-up area recommendation in a vehicle-cloud collaborative environment: a feature-aware personalized clustering federated learning approach",
+    "note": "FL with DTW time series similarity for ride-hailing recommendation. FL + TS present but ride-hailing domain not industrial IoT or PdM.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "NBI3XPG3",
+    "title": "Collaborative Imputation of Urban Time Series Through Cross-City Meta-Learning",
+    "note": "Urban data imputation; uses meta-learning, not FL",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "RJK6Z3LL",
+    "title": "An Integrated Online and Offline Multi-Agent AI Assistant for Network Management System Diagnosis",
+    "note": "Multi-agent LLM system for network diagnosis. No FL, FM (time-series), TS, or PdM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "LDZSU9HX",
+    "title": "Integrating Deep Learning, Machine Learning, AI, IoT and Data Science for Future Innovations",
+    "year": "2024",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "W86K8D8W",
+    "title": "Dual prompt personalized federated learning in foundation models",
+    "note": "NO: FL + FM (CLIP prompt learning). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "2FK67GZN",
+    "title": "The Intersection of AI, ML, and Industry: A Review of Emerging Trends in Real-World Applications",
+    "year": "2024",
+    "_batch": 9,
+    "_category": "no"
+  },
+  {
+    "key": "J7NJVBCX",
+    "title": "Interval prediction of distributed photovoltaic power integrating spatial collaborative training and data fluctuation trend perception",
+    "note": "Distributed PV prediction. Personalized FL and TS for energy. No FM or PdM.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "VH3M4K9T",
+    "title": "Effects of Personal Learning Space on Learners' Online Self-Regulated Learning Capability and Collaborative Learning Level",
+    "note": "Educational technology; no FL, no TS, no PdM",
+    "_batch": 4,
+    "_category": "no"
+  },
+  {
+    "key": "9QZNYBN5",
+    "title": "RadarVerses in Metaverses: A CPSI-Based Architecture for 6S Radar Systems in CPSS",
+    "note": "Foundation models mentioned as one component in radar CPS architecture; PdM peripherally in case study",
+    "_batch": 7,
+    "_category": "no"
+  },
+  {
+    "key": "3BUJUAZX",
+    "title": "Leveraging IoT for Enhanced Industrial Automation: Innovations and Applications",
+    "note": "IoT for industrial automation. FL and PdM mentioned. No FM or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "48I6GVTS",
+    "title": "2021 IEEE World AI IoT Congress, AIIoT 2021",
+    "note": "Conference proceedings. Abstract missing - only table of contents available. Cannot assess dimensions.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "4J3MZRAZ",
+    "title": "IFKG: An Intelligent Fault Diagnosis Tool with Knowledge Graph and Generative LLM",
+    "note": "LLM + knowledge graph for software system fault diagnosis. Software, not physical equipment. FM only.",
+    "_batch": 6,
+    "_category": "no"
+  },
+  {
+    "key": "H6LH9IDY",
+    "title": "A fully open AI foundation model applied to chest radiography",
+    "note": "NO: FM for medical imaging (chest X-ray). FL mentioned as capability. No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "GJMSQXQF",
+    "title": "From classical models to artificial intelligence models: Prospects for crime prediction in the era of big data",
+    "note": "TimeGPT foundation model for crime prediction - social/crime domain, not PdM",
+    "_batch": 7,
+    "_category": "no"
+  },
+  {
+    "key": "TH7ESPRG",
+    "title": "Spatio-Temporal-Spectral Collaborative Learning for Spatio-Temporal Fusion with Land Cover Changes",
+    "note": "DL for remote sensing spatio-temporal fusion. Not industrial IoT.",
+    "_batch": 5,
+    "_category": "no"
+  },
+  {
+    "key": "WKYAWJ7C",
+    "title": "LLM-Driven Synthetic Text Generation for Privacy-Preserving Federated Learning",
+    "note": "NO: FL + LLM for NLP (synthetic text generation). No TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  },
+  {
+    "key": "EECNXA3N",
+    "title": "Review on Application and Challenges of Large Language Models in Power Grids",
+    "note": "LLM applications in power grids. NLP-focused, not time-series FM.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "EUP3U5CJ",
+    "title": "The sentient infrastructure paradigm: a review of novel sensors, digital twins, and AI for civil structural health monitoring",
+    "note": "Structural health monitoring with DT and AI. PdM present. No FL, FM, or TS.",
+    "_batch": 10,
+    "_category": "no"
+  },
+  {
+    "key": "SY57LT2Z",
+    "title": "Automating SSRL Detection in Asynchronous OCL via LLMs",
+    "note": "NO: NLP/education only. LLMs applied to educational collaborative learning analysis. No FL, no TS, no PdM.",
+    "_batch": 2,
+    "_category": "no"
+  }
+]

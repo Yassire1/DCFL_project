@@ -1,0 +1,146 @@
+===============================================
+PROGRESS TRACKING - Updated Dec 16, 2025
+===============================================
+
+✅ COMPLETED TASKS:
+
+[Methodology - Written & Documented]
+✅ Data Preparation (concatenation, merging SCADA+MetMast, missing value handling)
+✅ Train-Test-Validation Split (removed last 2 months, 17-2-3 months split documented)
+✅ Temporal Labeling Strategy (30d, 60d, dynamic approaches documented)
+✅ Post-Failure Window Detection (hybrid approach: measured + average windows)
+✅ Class Consolidation Strategy (Generator + Generator Bearing merged, justified)
+✅ Feature Selection Methodology (hybrid approach: domain + statistical, 26 features)
+✅ Class Imbalance Mitigation Strategies (4 approaches documented: baseline, downsampling, TimeGAN, combined)
+✅ Overview of DCFL Framework (3-tier architecture documented)
+✅ Case Study: EDP Dataset (complete description)
+
+[Understanding & Analysis]
+✅ T-S and Trends Analysis for failure behavior understanding
+✅ Post-failure window measurement for 17/27 failures (63%)
+✅ Component-specific recovery time analysis
+
+===============================================
+
+❌ PENDING TASKS - CHECKLIST:
+
+[Experiments & Results]
+☐ Feature selection benchmarking results (baseline vs domain vs statistical vs hybrid)
+☐ Temporal labeling comparison results (30d vs 60d vs dynamic)
+☐ Post-failure window impact evaluation (with vs without)
+☐ Class imbalance mitigation comparison (4 approaches performance)
+☐ Downsampling: compare different out-of-failure periods
+☐ TimeGAN data generation implementation and evaluation
+☐ Class consolidation ablation study (6-class vs 5-class)
+☐ Model training and evaluation on complete pipeline
+☐ Hyperparameter tuning documentation
+
+[Federated Learning - CORE CONTRIBUTION!]
+☐ Federated learning experiments implementation
+☐ Centralized vs per-client vs global model comparison
+☐ Test different aggregation strategies (FedAvg, FedProx)
+☐ Per-client performance breakdown (T01, T06, T07, T11)
+☐ Communication rounds vs accuracy analysis
+☐ Non-IID data handling evaluation
+
+[Visualizations]
+☐ Class distribution plots
+☐ Time series analysis visualizations
+☐ Correlation matrices and feature importance plots
+☐ Model evaluation plots (confusion matrix, ROC curves, training curves)
+☐ Federated learning convergence plots
+
+[Methodology - Missing Content]
+☐ Data Distribution Strategy (subsubsection exists but empty)
+☐ Model architecture section (1DCNN-BiLSTM specifications)
+☐ Training configuration details (optimizer, learning rate, epochs)
+☐ Feature validation with iterative PCA and Correlation analysis
+
+[Paper Structure]
+☐ Introduction section (literature review, research gap, contributions)
+☐ Abstract (currently placeholder)
+☐ Discussion section
+☐ Conclusion section
+☐ Future Work section
+☐ References (replace placeholder citations)
+
+===============================================
+
+
+
+
+
+Notes :
+
+add a Feature validation part in the feature selection section : using PCA and Correlation analysis in an irritative approach.\
+
+the intelligent downsampling should be applied only for the training set, the test set should be untouched.
+
+i should investigate the choice and testing of every chosen step.
+
+give result of feature selection benchmarking
+
+investigate how should i apply data balancing
+
+for the evaluation of the proposed model accuracy, we can compare the result of three stages. compare the performance of the centralized local model VS per-client local model VS global model. (the centralized model will be the maximum accuracy that can be reached via the model.)
+
+we will compare different out-of-failure periods for the normal class in the downsampling process  to chose the right one.
+
+we can use TimeGAN to generate data of the minority class.
+
+to understand the failure behavior, we identified WT with two or more failures in the same component. and performed T-S and Trends Analysis. understanding the pre- and post-failure windows.
+
+Strategies Evaluation :
+
+1. Data labeling :
+
+Evaluation no : SCADA concatinated + merged + labeled + handling missing values, of 30/60 pre-failure window + Evaluation
+
+
+
+Combining Generator with G Bearning : Not done yet ❌
+
+Model training revealed that the model always strugle to predicte the 4 class of the generator bearing cause it has only one failure in the entire 2year periode, and because of it happend in the very begining of the observed periode the validation and the test sets can’t has samples of this failure class so we can’t evaluate the model prediction ability on this class. that why we chosed to combain it with the generator failure class by the fact that they reference to almost the same component. with that we are overcaming the issue and the model can optimize more the prediction ability.
+
+
+
+2. Post-Failure determination :
+we measured the post-failure window for every possibly measurable WT component failure, and we determed the average, the min and the max post-failure window for every component. so we want to use the measured window for the ones that we successfully measured their post-failure window, and for those that we couldn't measure the window, we gonna use the average post failure window for that specific WT component.
+
+Data used :
+
+SCADA concatinated + merged + labeled + Post-failure Injection+ handling missing values, of 30 or 60 pre-failure window + Evaluation
+
+3. Feature selection :
+
+use data :
+
+data concatinated + merged + labeled + feature selection + handling missing values
+
+4. Data Downsampling :
+
+TimeGAN / Downsampling
+
+5. Train Test Split :
+
+The final two months could be removed, because they have only normal operation and won’t be efficient for the test set.
+
+We have removed the last 2m, we used the remaining 3m for test and the 2m before as validation.
+
+the problem is that the train set has some small class failures that are located in the validation and test sets, which the model will not benefit from in the training.
+
+We should combine the generator and the generator bearing together to overcome the rare samples and the chances of predicting the generator bearing failures.
+
+6. Model and hyperparameter selection : Not done yet ❌
+
+Model benchmarking and evaluation with the state-of-the-art models (we can go deeper by making it for every data-centric step)
+
+Hyperparameter tuning and tables presenting the resulting best parameters.
+
+final evaluation of the model based on another SCADA dataset.
+
+7. Federated learning Evaluation : Not done yet ❌
+
+Test and evaluate different aggregation strategies (FedAvg, FedProx,…)
+
+The test set for both the federated models and the centralized model should be the same, eather using T11’s data for both, or the same test set for both.

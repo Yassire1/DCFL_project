@@ -1,0 +1,694 @@
+[
+  {
+    "key": "JWAD993I",
+    "title": "Trustworthy Machine Learning under Imperfect Data",
+    "classification": "P4",
+    "dimensions": [
+      "FL",
+      "FM"
+    ],
+    "note": "FL + FM: Discusses trustworthy federated learning and foundation models as core topics"
+  },
+  {
+    "key": "26NIKELQ",
+    "title": "FedEx-LoRA: Exact Aggregation for Federated and Efficient Fine-Tuning of Large Language Models",
+    "classification": "P4",
+    "dimensions": [
+      "FL",
+      "FM"
+    ],
+    "note": "FL + FM: Federated exact aggregation for LoRA fine-tuning of foundation models"
+  },
+  {
+    "key": "8ZS6DKPT",
+    "title": "Application and Effectiveness Evaluation of Federated Learning Methods in Anti-Money Laundering Collaborative Modeling Across Inter-Institutional Transaction Networks",
+    "classification": "P4",
+    "dimensions": [
+      "FL",
+      "FM"
+    ],
+    "note": "FL + FM: Graph Foundation Model with federated learning for AML"
+  },
+  {
+    "key": "5MJ6V632",
+    "title": "Dual-Personalizing Adapter for Federated Foundation Models",
+    "classification": "P4",
+    "dimensions": [
+      "FL",
+      "FM"
+    ],
+    "note": "FL + FM: Personalized federated foundation models with dual adapters"
+  },
+  {
+    "key": "JR2PNBZQ",
+    "title": "Open challenges and opportunities in federated foundation models towards biomedical healthcare",
+    "classification": "P4",
+    "dimensions": [
+      "FL",
+      "FM"
+    ],
+    "note": "FL + FM: Survey on integrating foundation models with federated learning"
+  },
+  {
+    "key": "BVFHUWDX",
+    "title": "Efficient Federated Learning with Pre-Trained Large Language Model Using Several Adapter Mechanisms",
+    "classification": "P4",
+    "dimensions": [
+      "FL",
+      "FM"
+    ],
+    "note": "FL + FM: Federated learning with pre-trained LLM using adapter mechanisms"
+  },
+  {
+    "key": "DINKILS4",
+    "title": "Federated Prompt Learning for Weather Foundation Models on Devices",
+    "classification": "P2",
+    "dimensions": [
+      "FL",
+      "FM",
+      "TS"
+    ],
+    "note": "FL + FM + TS: Federated prompt learning for weather foundation models; weather forecasting is time-series"
+  },
+  {
+    "key": "8Z3I868I",
+    "title": "Federated Learning on Disruption-Tolerant Distributed Confidential Infrastructures: A Case Study on Satellite Anomaly Detection",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL for satellite anomaly detection with time series for predictive maintenance"
+  },
+  {
+    "key": "UEAHBX4C",
+    "title": "A Federated Learning-Based Industrial Health Prognostics for Heterogeneous Edge Devices Using Matched Feature Extraction",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL for industrial health prognostics; SoH and RUL estimation with sensor time series"
+  },
+  {
+    "key": "FKQEQZBE",
+    "title": "FeDMus: Federated Dynamic Example Mining for Unlabeled Sensor Data in Industrial Automation",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: Federated active learning for sensor time series; anomaly detection and fault diagnosis"
+  },
+  {
+    "key": "PWAEF2WS",
+    "title": "Marl-Enhanced Federated Learning for Predicting Remaining Useful Lifetime",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL with transformer for RUL prediction (PHM) of industrial machines"
+  },
+  {
+    "key": "UJKCVKD5",
+    "title": "Federated Learning for Secure AI-Driven Predictive Maintenance in Smart Manufacturing",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL for predictive maintenance; sensor time series fault detection in Industry 4.0"
+  },
+  {
+    "key": "X2QGR47K",
+    "title": "Remaining useful life prediction of rolling bearings using federated learning with personalized dynamic aggregation and local-adversarial",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL for RUL prediction of rolling bearings; predictive maintenance"
+  },
+  {
+    "key": "T2WQT8MT",
+    "title": "Federated Learning for Predictive Maintenance and Anomaly Detection Using Time Series Data Distribution Shifts in Manufacturing Processes",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL with 1DCNN-BiLSTM for time series anomaly detection and PdM in manufacturing"
+  },
+  {
+    "key": "ICNW9YFV",
+    "title": "Deep Learning and Time Series Analysis for Internet of Things Device Predictive Maintenance",
+    "classification": "YES",
+    "dimensions": [
+      "TS",
+      "PdM"
+    ],
+    "note": "TS + PdM: DL and time series analysis for IoT device predictive maintenance; FL mentioned only as future direction"
+  },
+  {
+    "key": "E48WT88T",
+    "title": "Enabling Federated Learning: Generating Synthetic Clients through Time Series Data Augmentation",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL with synthetic time series augmentation for distributed predictive maintenance"
+  },
+  {
+    "key": "PNHVJBUV",
+    "title": "Federated Generative Models for Predictive Maintenance in Industrial Environments",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL with VAE for anomaly detection in industrial time series; PdM"
+  },
+  {
+    "key": "8I8C5IKC",
+    "title": "Federated Learning for Maritime Environments: Use Cases, Experimental Results, and Open Issues",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL for maritime predictive maintenance and fuel consumption forecasting"
+  },
+  {
+    "key": "NIH5T73H",
+    "title": "Predictive Maintenance in IoT Networks Using a Temporal Attention Mechanism Based Federated Convolutional Neural Network",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL with temporal attention CNN for PdM in IoT (CMAPSS dataset)"
+  },
+  {
+    "key": "AWXUJQEI",
+    "title": "Label synchronization strategies for hybrid federated learning",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: Hybrid FL for condition-based PdM; RUL forecasting on turbofan/maritime engines"
+  },
+  {
+    "key": "4CHV7YW8",
+    "title": "Trans-Lighter: A light-weight federated learning-based architecture for Remaining Useful Lifetime prediction",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL with transformer for RUL prediction in smart manufacturing"
+  },
+  {
+    "key": "CZNQCSKX",
+    "title": "Data Disparity and Temporal Unavailability Aware Asynchronous Federated Learning for Predictive Maintenance on Transportation Fleets",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: Async FL for PdM on transportation fleets with sensor data"
+  },
+  {
+    "key": "4URP7XXK",
+    "title": "A remaining useful life estimation method based on long short-term memory and federated learning for electric vehicles in smart cities",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: LSTM + FL for RUL estimation of EV lithium batteries"
+  },
+  {
+    "key": "PALRAVZG",
+    "title": "Hybrid MLP-GRU Federated Learning Framework for Industrial Predictive Maintenance",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL with hybrid MLP-GRU for defect detection in industrial machinery"
+  },
+  {
+    "key": "QW3LBFA5",
+    "title": "Transformers Meet Federated Learning: An Intelligent Framework for Energy Forecasting and Optimization in IIoT-Driven Industries",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Transformers + FL for energy forecasting in IIoT"
+  },
+  {
+    "key": "T3W5UXAR",
+    "title": "Lifecycle Management of Federated Learning Artifacts in Industrial Applications",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL for condition monitoring of industrial pumps using time series data"
+  },
+  {
+    "key": "87SHYPHK",
+    "title": "Bayesian Uncertainty Calibration for Federated Time Series Analysis",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: Bayesian FL for time series regression on C-MAPSS prognostics dataset"
+  },
+  {
+    "key": "T7SNZ2N2",
+    "title": "Goal Programming in Federated Learning: an Application to Time Series Forecasting",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Goal programming in FL for power demand time series forecasting"
+  },
+  {
+    "key": "QR4YVBHF",
+    "title": "An aggregation algorithm to handle data temporal dependence in Federated Learning",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Metadata-driven hierarchical aggregation in FL for time series"
+  },
+  {
+    "key": "MGRMYHPX",
+    "title": "Shuffled Differentially Private Federated Learning for Time Series Data Analytics",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: Privacy-preserving FL for time series; targets machine health monitoring"
+  },
+  {
+    "key": "RRTS23BF",
+    "title": "Time Series Classification Using Federated Convolutional Neural Networks and Image-Based Representations",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Federated CNN for time series classification using image representations"
+  },
+  {
+    "key": "K4VW5E4X",
+    "title": "Communication-Efficient Design of Learning System for Energy Demand Forecasting of Electrical Vehicles",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Communication-efficient FL with transformers for EV energy demand forecasting"
+  },
+  {
+    "key": "H2JSPQKE",
+    "title": "Semi-decentralized Federated Time Series Prediction with Client Availability Budgets",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Semi-decentralized FL for time series prediction with client availability budgets"
+  },
+  {
+    "key": "59XC5FID",
+    "title": "Federated Learning Framework for Collaborative Time Series Anomaly Detection on Distributed Machines",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL for anomaly detection on distributed manufacturing machines"
+  },
+  {
+    "key": "7QCX4SW7",
+    "title": "Fed-SMAE: Federated-Learning Based Time Series Anomaly Detection with Shared Memory Augmented Autoencoder",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL for multivariate time series anomaly detection in CPS"
+  },
+  {
+    "key": "MDJ35MPC",
+    "title": "FLCAD: Anomaly detection based on contrastive federated learning",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Contrastive FL for time series anomaly detection in IIoT"
+  },
+  {
+    "key": "VATGT5YG",
+    "title": "FedHZone: Federated Learning Based Hazardous Zone Detection Using Internet of Drone Things",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL with LSTM for AQI time series prediction"
+  },
+  {
+    "key": "D5KB8HFU",
+    "title": "Federated Learning with Temporal Fusion Transformer for Interpretable SOH Prediction in EV Batteries",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS",
+      "PdM"
+    ],
+    "note": "FL + TS + PdM: FL with TFT for SOH prediction in EV batteries"
+  },
+  {
+    "key": "7VSJNF95",
+    "title": "Evaluating the Effect of Volatile Federated Timeseries on Modern DNNs: Attention over Long/Short Memory",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL with transformer and LSTM for time series forecasting"
+  },
+  {
+    "key": "JSXGUJ62",
+    "title": "Transformers with Attentive Federated Aggregation for Time Series Stock Forecasting",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Attentive federated transformers for time series stock forecasting"
+  },
+  {
+    "key": "PJSD5DE8",
+    "title": "Temporal Adaptive Clustering for Heterogeneous Clients in Federated Learning",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Temporal adaptive clustered FL for EV charging station time series"
+  },
+  {
+    "key": "AGAC8VRH",
+    "title": "A Federated Learning Approach for Efficient Anomaly Detection in Electric Power Steering Systems",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL for anomaly detection on electric power steering time series sensor data"
+  },
+  {
+    "key": "XDFPZ2JI",
+    "title": "Towards Uncertainty-Aware Forecasting Using Tree-Based Aggregation in Federated Learning",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Tree-based FL for uncertainty-aware energy forecasting"
+  },
+  {
+    "key": "UZ7LCDC9",
+    "title": "A Federated Multi-Task Learning Framework with Dual Attention Mechanisms for Smart Buildings",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Federated multi-task learning for energy forecasting in smart buildings"
+  },
+  {
+    "key": "MHC6D3FC",
+    "title": "AIFed: Anomaly-resilient and Imbalance-aware Federated Learning",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Anomaly-resilient FL for time series in geographically distributed systems"
+  },
+  {
+    "key": "9BB7UYQD",
+    "title": "Federated Learning with Reservoir State Analysis for Time Series Anomaly Detection",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL with reservoir computing for time series anomaly detection"
+  },
+  {
+    "key": "C4E6TSWQ",
+    "title": "Benchmarking Catastrophic Forgetting Mitigation Methods in Federated Time Series Forecasting",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Benchmarking CF mitigation in federated time series forecasting"
+  },
+  {
+    "key": "SXYJZZCQ",
+    "title": "TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Security analysis of gradient inversion on federated TS forecasting"
+  },
+  {
+    "key": "BYLBVWG9",
+    "title": "MVFL: Multivariate Vertical Federated Learning for Time-Series Forecasting",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Vertical federated learning for multivariate time series forecasting"
+  },
+  {
+    "key": "KNQTSQHJ",
+    "title": "Heterogeneous Federated Semantic Communication for Time Series Forecasting",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Heterogeneous FL for semantic communication TS forecasting"
+  },
+  {
+    "key": "Y4MSFA5G",
+    "title": "Time series prediction in IoT: a comparative study of federated versus centralized learning",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Comparing federated vs centralized learning for IoT time series prediction"
+  },
+  {
+    "key": "7ME67PKX",
+    "title": "Federated Learning approach for Auto-scaling of Virtual Network Function resource allocation in 5G-and-Beyond Networks",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL for VNF auto-scaling via time series forecasting in 5G networks"
+  },
+  {
+    "key": "VI2T3RH6",
+    "title": "Dynamic Clustering in Federated Learning",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL with dynamic clustering for handover time series forecasting"
+  },
+  {
+    "key": "9YLPP5D9",
+    "title": "Missing Data Imputation for Multivariate Time series in Industrial IoT: A Federated Learning Approach",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL for multivariate time series imputation in industrial IoT"
+  },
+  {
+    "key": "6A287BDV",
+    "title": "FedTADBench: Federated Time-series Anomaly Detection Benchmark",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Benchmarking FL methods for time series anomaly detection"
+  },
+  {
+    "key": "RPNUJRFL",
+    "title": "Privacy-Preserving Anomaly Detection in Smart Meter Data Via Federated Learning",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL for anomaly detection in smart meter time series data"
+  },
+  {
+    "key": "3M623UY5",
+    "title": "Federated Learning of Dynamic Bayesian Network via Continuous Optimization from Time Series Data",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL for Dynamic Bayesian Network structure learning from time series"
+  },
+  {
+    "key": "JZJ684YS",
+    "title": "Unsupervised Multivariate Time Series Anomaly Detection by Feature Decoupling in Federated Learning Scenarios",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL with feature decoupling for unsupervised MTS anomaly detection"
+  },
+  {
+    "key": "A95MHIMA",
+    "title": "Revealing the Effects of Data Heterogeneity in Federated Learning Regression Models for Short-Term Solar Power Forecasting",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL regression for solar power time series forecasting"
+  },
+  {
+    "key": "GHUVXLDM",
+    "title": "Trustworthy Glucose Prediction Using Federated Learning: Privacy Preserving as a Service",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL with LSTM for glucose level time series prediction"
+  },
+  {
+    "key": "8BY5GQ8L",
+    "title": "Centralized and Federated Learning for Predictive VNF Autoscaling in Multi-Domain 5G Networks and Beyond",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL for VNF autoscaling via time series forecasting in 5G"
+  },
+  {
+    "key": "E2KY4FZ7",
+    "title": "D3FL: Data Distribution and Detrending for Robust Federated Learning in Non-linear Time-series Data",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL with detrending for non-linear IoT time series"
+  },
+  {
+    "key": "IUTHP2CY",
+    "title": "Decentralized Federated Learning for Time Series Prediction in Electric Vehicle Charging Ecosystems",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Decentralized FL for EV charging time series prediction"
+  },
+  {
+    "key": "L66HU8FU",
+    "title": "Applying Federated Learning on Decentralized Smart Agriculture: A Case Study",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: FL for smart agriculture time series forecasting"
+  },
+  {
+    "key": "5KAPBFIH",
+    "title": "CD2Linear: Convolution-based Federated Learning for Efficient Time Series Forecasting in the Metaverse",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Convolution-based FL for time series forecasting in Metaverse"
+  },
+  {
+    "key": "FJPB24JB",
+    "title": "Multi-Modal Personalized Federated Learning for Human Intent Prediction",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Personalized FL for human intent prediction using time series and video data"
+  },
+  {
+    "key": "WA6JHWPF",
+    "title": "Iterative Weighted-Voting Approach for Adaptive Time-Series Anomaly Correction in Federated AGV Systems",
+    "classification": "YES",
+    "dimensions": [
+      "FL",
+      "TS"
+    ],
+    "note": "FL + TS: Federated learning for time series anomaly detection and correction in AGV battery data"
+  }
+]

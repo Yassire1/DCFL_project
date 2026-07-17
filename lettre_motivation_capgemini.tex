@@ -1,0 +1,61 @@
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+\documentclass[11pt, a4paper]{awesome-cv}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\fontdir[fonts/]
+\colorlet{awesome}{awesome-red}
+\setbool{acvSectionColorHighlight}{true}
+\renewcommand{\acvHeaderSocialSep}{\quad|\quad}
+
+%-------------------------------------------------------------------------------
+% PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+\photo[circle,noedge,left]{img/cv_pc.png}
+\name{Yassire}{Ammouri}
+\position{Ingénieur Data Science \& IA}
+\address{Salé -- Rabat, Maroc}
+\mobile{(+212) 648289422}
+\email{yassire.ammouri@um5r.ac.ma}
+\github{yassire1}
+\linkedin{yassire-ammouri}
+
+%-------------------------------------------------------------------------------
+% RECIPIENT
+%-------------------------------------------------------------------------------
+\recipient
+  {Service Recrutement \\
+  Capgemini \\
+  Maroc}
+  {}
+
+\lettertitle{Candidature -- Data Scientist}
+\letteropening{Madame, Monsieur,}
+\letterclosing{Dans l'attente de votre retour, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.\\
+\\
+Yassire Ammouri,}
+\letterenclosure[Attaché]{Curriculum Vitae}
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+\makecvheader[R]
+\makelettertitle
+
+\begin{cvletter}
+
+Actuellement en dernière année d'ingénierie Data Science à l'SUPMTI Rabat, je suis vivement intéressé par le poste de \textbf{Data Scientist} au sein de \textbf{Capgemini}. Votre vision d'une technologie au service de la transformation des entreprises résonne avec ma propre ambition : contribuer à des projets data à fort impact tout en évoluant dans un environnement d'expertise collective.
+
+Dans le cadre de mon \textbf{Projet de Fin d'Études (PFE)} au sein du \textbf{laboratoire LRIT de l'Université Mohammed V}, j'ai développé un cadre d'apprentissage fédéré centré sur les données pour la prédiction de pannes éoliennes multiclasses (6 classes). J'ai conçu des pipelines de prétraitement de bout en bout — étiquetage temporel dynamique, sélection hybride de caractéristiques (120+ features $\rightarrow$ 26 prédicteurs), mitigation du déséquilibre des classes ($<$2\% d'échantillons de pannes) via focal loss, TimeGAN et sous-échantillonnage intelligent. J'ai également implémenté un système d'apprentissage fédéré avec le framework \textbf{Flower} (FedAvg/FedProx), déployé via \textbf{Docker Compose}, et mené plus de 10 expériences comparatives sur des architectures deep learning (\textbf{1DCNN-BiLSTM}), en utilisant \textbf{Weights \& Biases} pour le suivi et la documentation de chaque run.
+
+Par ailleurs, mon stage actuel chez \textbf{OCP SOLUTIONS} en tant qu'ingénieur IA Backend m'a permis de compléter cette formation par une expérience en production : développement d'un agent \textbf{LangGraph} stateful pour la génération de micro-cours, orchestration de microservices via \textbf{Docker Compose, PostgreSQL, Redis}, et mise en place de pipelines LLM avec \textbf{FastAPI} et streaming SSE. Cette double expérience — recherche appliquée sur un projet data science complet et industrialisation de solutions IA en entreprise — me permet de maîtriser le cycle ML de bout en bout, de la préparation des données au déploiement en production.
+
+Maîtrisant \textbf{Python, TensorFlow, Scikit-learn} et les architectures cloud (\textbf{AWS, GCP, OCI}), je suis à l'aise avec la manipulation de grands volumes de données, la visualisation des résultats et la communication auprès de publics non techniques. Mon appétence pour le travail collaboratif et mon esprit analytique s'inscrivent pleinement dans la culture inclusive et multiculturelle que Capgemini promeut.
+
+Rejoindre Capgemini représente pour moi l'opportunité de mettre à profit cette double expérience — PFE en data science et stage en ingénierie IA — au service de projets data diversifiés et stimulants au sein de grands comptes. Je serais ravi de pouvoir échanger avec vous sur ma candidature et sur la manière dont je pourrais contribuer à vos équipes.
+
+\end{cvletter}
+
+\makeletterclosing
+
+\end{document}

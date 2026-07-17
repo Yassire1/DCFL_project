@@ -1,0 +1,307 @@
+[
+  {
+    "key": "CUQR5XB7",
+    "title": "SAFE-MED for Privacy-Preserving Federated Learning in IoMT via Adversarial Neural Cryptography",
+    "note": "FL for IoMT (medical). ECG/health time series. Domain is medical, not industrial. 2 dimensions (FL+TS) but medical domain, no PdM, no FM."
+  },
+  {
+    "key": "YXUC55D2",
+    "title": "Enhancing stress detection in wearable IoT devices using federated learning and LSTM based hybrid model",
+    "note": "FL + LSTM for stress detection from wearables. Medical/health domain. 2 dimensions (FL+TS) but health, no FM, no PdM."
+  },
+  {
+    "key": "2G2HV694",
+    "title": "Predicting infant brain connectivity with federated multi-trajectory GNNs using scarce data",
+    "note": "FL + GNN for brain connectivity prediction. Medical domain. 1 dimension (FL only)."
+  },
+  {
+    "key": "ABCY7C3T",
+    "title": "Design of an improved graph-based model for real-time anomaly detection in healthcare using hybrid CNN-LSTM and federated learning",
+    "note": "FL + CNN-LSTM for healthcare anomaly detection. Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM."
+  },
+  {
+    "key": "8FFZBNBY",
+    "title": "A Secure and Efficient Framework for Multimodal Prediction Tasks in Cloud Computing with Sliding-Window Attention Mechanisms",
+    "note": "Attention mechanism for cloud computing security. Compares with FL but not FL-focused. Cloud computing, not industrial."
+  },
+  {
+    "key": "I2MYY7IH",
+    "title": "2025 International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics, IC3ECSBHI 2025",
+    "note": "Conference proceedings. Abstract lists topics but no specific paper to evaluate."
+  },
+  {
+    "key": "ZYEMMZVV",
+    "title": "Enhancing smart grid load forecasting: An attention-based deep learning model integrated with federated learning and XAI for security and interpretability",
+    "note": "FL + 1D-CNN-GRU for smart grid load forecasting. Energy forecasting, not PdM. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "QTZ99QHR",
+    "title": "Proceedings of the 5th International Conference on Data Intelligence and Cognitive Informatics, ICDICI 2024",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "K6W5Q77S",
+    "title": "Exploring heterogeneous data distribution issues in e-health federated systems",
+    "note": "FL + time series classification for e-health. Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM."
+  },
+  {
+    "key": "RYZZUC85",
+    "title": "Fault diagnosis method for elevator carriages based on temporal generative federated distillation",
+    "note": "FL + TimeGAN for elevator fault diagnosis. Industrial PdM context but TimeGAN is generative model, not FM (not pretrained/foundation). 3 dimensions (FL+TS+PdM) but no FM — doesn't match P1-P7."
+  },
+  {
+    "key": "28GBLTXC",
+    "title": "Perception and Prediction of Factors Influencing Carbon Price: Multisource, Spatiotemporal, Hierated Federated Learning Framework with Cross-Modal Feature Fusion",
+    "note": "FL for carbon price forecasting. Financial/environmental domain. 2 dimensions (FL+TS) but financial, no FM, no PdM."
+  },
+  {
+    "key": "QMNZG5T2",
+    "title": "Machine learning applications in climate finance: An overview",
+    "note": "Review of ML in climate finance. Mentions FL and time series as techniques. Financial domain. Not focused on any specific dimension."
+  },
+  {
+    "key": "PGFITPNQ",
+    "title": "MLNLP 2024 - 2024 International Conference on Machine Learning and Natural Language Processing",
+    "note": "Conference proceedings. NLP-focused. No specific paper to evaluate."
+  },
+  {
+    "key": "EMTDDP5S",
+    "title": "LG-BiTCN: A Lightweight Malicious Traffic Detection Model Based on Federated Learning for Internet of Things",
+    "note": "FL + temporal convolutional network for IoT network traffic cybersecurity. 2 dimensions (FL+TS) but cybersecurity, no FM, no PdM."
+  },
+  {
+    "key": "S83V4H8M",
+    "title": "Multi-Source Big Data Indoor Positioning Technology under the Federated Learning Framework",
+    "note": "FL + LSTM for indoor positioning from sensor time series. Location services, not industrial. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "2IJQ6GMH",
+    "title": "2025 4th International Conference on Artificial Intelligence, Internet of Things and Cloud Computing Technology, AIoTC 2025",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "UXIUNSJC",
+    "title": "Lightweight Privacy-Preserving Anomaly Detection for Time Series Based on Federated Learning",
+    "note": "FL + anomaly detection for time series. General purpose. 2 dimensions (FL+TS) but no FM, no PdM, not industrial."
+  },
+  {
+    "key": "9TXVJRA5",
+    "title": "ICSED 2021 - 2021 3rd International Conference on Software Engineering and Development",
+    "note": "Conference proceedings. Software engineering focus. No specific paper to evaluate."
+  },
+  {
+    "key": "BJN2UFW9",
+    "title": "A federated learning-based approach to recognize subjects at a high risk of hypertension in a non-stationary scenario",
+    "note": "FL + time series for hypertension risk detection. Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM."
+  },
+  {
+    "key": "BWYA78DA",
+    "title": "Data Aging Matters: Federated Learning-Based Consumption Prediction in Smart Homes via Age-Based Model Weighting",
+    "note": "FL for smart home energy consumption prediction. Consumer IoT, not industrial. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "T4437NEH",
+    "title": "2024 5th IEEE Global Conference for Advancement in Technology, GCAT 2024",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "G52UZDZ9",
+    "title": "PPML-TSA: A modular privacy-preserving time series classification framework",
+    "note": "FL + DP framework for time series classification. General toolkit. 2 dimensions (FL+TS) but no FM, no PdM, not industrial."
+  },
+  {
+    "key": "SP9VNM5M",
+    "title": "Proceedings - International Conference on Tools with Artificial Intelligence, ICTAI",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "5FKEWDFP",
+    "title": "2023 Silicon Valley Cybersecurity Conference, SVCC 2023",
+    "note": "Conference proceedings. Cybersecurity focus. No specific paper to evaluate."
+  },
+  {
+    "key": "2FMIHMCY",
+    "title": "Proceedings - ICACSIS 2022: 14th International Conference on Advanced Computer Science and Information Systems",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "R8H86V7V",
+    "title": "A Metamodel and Framework for Artificial General Intelligence From Theory to Practice",
+    "note": "AGI metamodel. Mentions FL and time series analysis as applications. Theoretical/conceptual. Not specific to any dimension."
+  },
+  {
+    "key": "DXD9DUKV",
+    "title": "Early ICU Mortality Prediction with Deep Federated Learning: A Real-World Scenario",
+    "note": "FL for ICU mortality prediction from multivariate time series. Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM."
+  },
+  {
+    "key": "G9WIU3HZ",
+    "title": "Application of Federated Learning Approaches for Time-Series Classification in eHealth Domain",
+    "note": "FL + time series classification for e-health (hypertension risk). Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM."
+  },
+  {
+    "key": "7N76Z8CA",
+    "title": "The privacy-explainability trade-off: unraveling the impacts of differential privacy and federated learning on attribution methods",
+    "note": "FL + DP effects on XAI. General study on privacy-explainability trade-off. Not domain-specific."
+  },
+  {
+    "key": "2KLGVX6N",
+    "title": "Proceedings of ASME 2024 18th International Conference on Energy Sustainability, ES 2024",
+    "note": "Conference proceedings. Energy focus. No specific paper to evaluate."
+  },
+  {
+    "key": "IHFTLSIE",
+    "title": "TempXAI 2024 - Proceedings of the Workshop on Explainable AI for Time Series and Data Streams, co-located with ECML-PKDD 2024",
+    "note": "Workshop proceedings. Mentions explainable FL for time series but no specific paper to evaluate."
+  },
+  {
+    "key": "DMLD698K",
+    "title": "Distributed Federated Deep Learning in Clustered Internet of Things Wireless Networks with Data Similarity-Based Client Participation",
+    "note": "FL for time series prediction in wireless IoT. General IoT, not industrial. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "VMRPZPJQ",
+    "title": "Federated LSTM Model for Enhanced Anomaly Detection in Cyber Security: A Novel Approach for Distributed Threat",
+    "note": "FL + LSTM for cybersecurity anomaly detection. 2 dimensions (FL+TS) but cybersecurity, no FM, no PdM."
+  },
+  {
+    "key": "XZ2M57RX",
+    "title": "Boosting Transferability and Discriminability for Time Series Domain Adaptation",
+    "note": "Domain adaptation for time series (transfer learning). No FL, no FM, no PdM. General time series transfer learning."
+  },
+  {
+    "key": "AR37IUWE",
+    "title": "Research on Seismic Signal Analysis Based on Machine Learning",
+    "note": "MiniRocket for seismic time series classification. No FL, no FM, no PdM."
+  },
+  {
+    "key": "3R2BNEES",
+    "title": "Efficient Asynchronous Federated Learning for AUV Swarm",
+    "note": "FL for autonomous underwater vehicle swarm. Underwater robotics, not industrial PdM. 1 dimension (FL only)."
+  },
+  {
+    "key": "5M5X8HSI",
+    "title": "2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence, CCAI 2023",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "5LEI2RSA",
+    "title": "Federated deep contrastive learning for mid-term natural gas demand forecasting",
+    "note": "FL + contrastive learning for gas demand forecasting. Energy/utility domain. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "BXYV3DPV",
+    "title": "Multi-Participant Vertical Federated Learning Based Time Series Prediction",
+    "note": "Vertical FL + GRU for time series prediction (stock/benchmark). General VFL. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "5B6QYQRL",
+    "title": "Proceedings - IEEE International Conference on Knowledge Graph, ICKG 2023",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "K5K5KGCV",
+    "title": "DACFL: Dynamic Average Consensus-Based Federated Learning in Decentralized Sensors Network",
+    "note": "FL in decentralized sensor networks. General FL algorithm contribution. 1 dimension (FL only)."
+  },
+  {
+    "key": "3YNRJIK2",
+    "title": "LstFcFedLear: A LSTM-FC with Vertical Federated Learning Network for Fault Prediction",
+    "note": "FL + LSTM for fault prediction in firefighting IoT. PdM context but LSTM is not FM. 3 dimensions (FL+TS+PdM) but no FM — doesn't match P1-P7."
+  },
+  {
+    "key": "SEGYVHT6",
+    "title": "2022 IFIP Networking Conference, IFIP Networking 2022",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "4B7LISN4",
+    "title": "Forecasting Trend of Coronavirus Disease 2019 using Multi-Task Weighted TSK Fuzzy System",
+    "note": "Multi-task fuzzy system for COVID-19 forecasting. No FL, no FM, no PdM. Medical forecasting."
+  },
+  {
+    "key": "GDEUVY46",
+    "title": "A System for Time Series Feature Extraction in Federated Learning",
+    "note": "FL + time series feature extraction for recommender systems. General. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "X8IZZAAZ",
+    "title": "Emotions and entropy in team decision-making in chaotic learning dynamics",
+    "note": "Education/psychology research. Collaborative learning (not FL). No FM, no PdM."
+  },
+  {
+    "key": "Y7NEDS2M",
+    "title": "FLAMES2Graph: An Interpretable Federated Multivariate Time Series Classification Framework",
+    "note": "FL + CNN for multivariate time series classification. Medical/healthcare applications. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "3XWQ253Y",
+    "title": "A new distributed decomposition-reconstruction-ensemble learning paradigm for short-term wind power prediction",
+    "note": "FL + VMD for wind power forecasting. Energy domain. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "GDMGBKMK",
+    "title": "Proceedings - 2024 IEEE 10th International Conference on Intelligent Data and Security, IDS 2024",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "95QG8UZH",
+    "title": "Analyzing Collective Imagination: A Complex Systems Approach",
+    "note": "Education research on collaborative learning. No FL, no FM, no PdM."
+  },
+  {
+    "key": "2T4RVMVD",
+    "title": "FedTSC: A Secure Federated Learning System for Interpretable Time Series Classification",
+    "note": "FL + time series classification. General. 2 dimensions (FL+TS) but no FM, no PdM."
+  },
+  {
+    "key": "Z7294WVY",
+    "title": "Towards Explainable Federated Learning in Healthcare: A Study on Heart Arrhythmia Detection",
+    "note": "FL + TCN for ECG time series (arrhythmia detection). Medical domain. 2 dimensions (FL+TS) but healthcare, no FM, no PdM."
+  },
+  {
+    "key": "GAECEJZ5",
+    "title": "Temporal pathways to learning: How learning emerges in an open-ended collaborative activity.",
+    "note": "Education research using HMM for temporal learning analysis. No FL, no FM, no PdM."
+  },
+  {
+    "key": "35BLRSHW",
+    "title": "Proceedings - 2024 IEEE Conference on Artificial Intelligence, CAI 2024",
+    "note": "Conference proceedings. No specific paper to evaluate."
+  },
+  {
+    "key": "U62X5SZ8",
+    "title": "When IoT Meet LLMs: Applications and Challenges",
+    "note": "Review of LLM+IoT integration. Mentions PdM and condition monitoring for IIoT. Has PdM + FM (LLM) but no FL, no explicit time series analysis."
+  },
+  {
+    "key": "3G5ZRMPW",
+    "title": "Accurate and Interpretable Log-Based Fault Diagnosis Using Large Language Models",
+    "note": "LLM for log-based fault diagnosis. Software/IT systems, not physical equipment. FM only."
+  },
+  {
+    "key": "4J3MZRAZ",
+    "title": "IFKG: An Intelligent Fault Diagnosis Tool with Knowledge Graph and Generative LLM",
+    "note": "LLM + knowledge graph for software system fault diagnosis. Software, not physical equipment. FM only."
+  },
+  {
+    "key": "QZ79AJR8",
+    "title": "Prompt Engineering Approach Study for Supervised Fine-Tuned (SFT) Large Language Models (LLMs) in Spacecraft Fault Diagnosis",
+    "note": "LLM prompt engineering for spacecraft fault diagnosis. FM + PdM but spacecraft (aerospace), very niche. Classified NO as borderline."
+  },
+  {
+    "key": "YS89SW5Y",
+    "title": "Proactive Elastic Scaling for Online Service in Cloud Environments with Minimal Training Data",
+    "note": "Time series foundation model for cloud elasticity/scaling. FM+TS but no FL, no PdM. Not industrial PdM domain."
+  },
+  {
+    "key": "HBPEVNKB",
+    "title": "MobiFM: A Foundation Model for Mobile Data Forecasting",
+    "note": "Foundation model (diffusion+Transformer) for mobile network data forecasting. FM+TS but no FL, no PdM. Telecom domain, not industrial."
+  },
+  {
+    "key": "KPT6PS7T",
+    "title": "BiTSA: Leveraging Time Series Foundation Model for Building Energy Analytics",
+    "note": "Time series foundation model for building energy management/visualization. FM+TS but no FL, no PdM."
+  }
+]

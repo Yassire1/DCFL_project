@@ -1,0 +1,17 @@
+[
+  {
+    "key": "6KLN8U7W",
+    "title": "Assessing hyperspectral sensor capabilities: PRISMA vs EnMAP for crop type mapping in a semi-arid region",
+    "note": "TabPFN foundation model used for tabular/hyperspectral classification, not a time series foundation model. Tangentially related via multi-sensor temporal data."
+  },
+  {
+    "key": "6I52BAP2",
+    "title": "On the Opportunities and Challenges of Foundation Models for GeoAI (Vision Paper)",
+    "note": "Vision paper on foundation models for geospatial AI; mentions dementia time-series forecasting as one task among many. FM applied broadly but TS only tangentially."
+  },
+  {
+    "key": "K7SX9EJL",
+    "title": "Long-term validation of a model-based virtual sensing method for fatigue monitoring of offshore wind turbine support structures: Comparing as-designed with state-of-the-art foundation models",
+    "note": "Wind turbine fatigue monitoring using load time series data (PdM domain). 'Foundation models' in title refers to geotechnical/structural foundation models, NOT ML foundation models. No FL or FM (ML sense)."
+  }
+]

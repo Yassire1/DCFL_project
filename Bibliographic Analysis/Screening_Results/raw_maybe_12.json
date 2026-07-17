@@ -1,0 +1,8 @@
+[
+  {"key": "XKEDKBJX", "title": "Customizing Visual-Language Foundation Models for Multi-Modal Anomaly Detection and Reasoning", "note": "Visual-language FM for manufacturing anomaly detection; industrial quality control but visual (not time series) modality"},
+  {"key": "EB8WGK3L", "title": "Preliminary Study Toward Hybrid Machine Learning for Remote Seabed Characterization", "note": "SAM foundation model for sonar imagery segmentation; time series element present but application is seabed characterization, not industrial"},
+  {"key": "4CKU5YSI", "title": "A Real Time Self-Generating Control for AI Platforms", "note": "LLM/ChatGPT with time series context via AutoGluon; weak FM connection, AI platform architecture focus"},
+  {"key": "HTCSR6WA", "title": "MADiff: Motion-Aware Mamba Diffusion Models for Hand Trajectory Prediction on Egocentric Videos", "note": "Foundation model for visual-language fusion; trajectory prediction in egocentric vision, adjacent to time series"},
+  {"key": "AKBD24XE", "title": "Optimizing Large Language Models for Financial Analytics: A Comprehensive Framework for Domain-Specific Adaptation", "note": "LLM with temporal attention for financial analytics; primarily NLP, temporal aspect secondary"},
+  {"key": "WR7DF7D2", "title": "ProtoMind: Modeling Driven NAS and SIP Message Sequence Modeling for Smart Regression Detection", "note": "SIP message sequence temporal modeling for software regression detection; temporal patterns in software domain"}
+]

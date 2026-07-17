@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html { background: #FFFFFF; }
+body { width: 720pt; height: 405pt; margin: 0; padding: 0; background: #FFFFFF; font-family: Arial, sans-serif; display: flex; }
+.accent-bar { position: absolute; top: 0; left: 0; width: 100%; height: 3pt; background: #2D2D2D; }
+.container { margin: 0; padding: 32pt 50pt 24pt 50pt; width: 620pt; }
+.section-num { color: #999999; font-size: 10pt; margin: 0 0 3pt 0; letter-spacing: 2pt; }
+.section-title { color: #2D2D2D; font-size: 22pt; font-weight: bold; margin: 0 0 16pt 0; }
+.specs { display: flex; gap: 10pt; margin: 0 0 12pt 0; }
+.spec { flex: 1; background: #F5F5F5; border-radius: 6pt; padding: 8pt; text-align: center; }
+.spec-title { color: #2D2D2D; font-size: 8pt; font-weight: bold; margin: 0 0 2pt 0; }
+.spec-desc { color: #6B6B6B; font-size: 7pt; margin: 0; line-height: 1.3; }
+.challenges-table { margin: 0 0 12pt 0; }
+.ch-row { display: flex; border-bottom: 1pt solid #E0E0E0; padding: 4pt 0; }
+.ch-label { width: 130pt; color: #2D2D2D; font-size: 9pt; font-weight: bold; }
+.ch-impact { flex: 1; color: #6B6B6B; font-size: 8pt; }
+.ch-header { border-bottom: 2pt solid #2D2D2D; }
+.ch-header .ch-label, .ch-header .ch-impact { color: #2D2D2D; font-weight: bold; font-size: 9pt; }
+.classic { display: flex; gap: 8pt; margin: 0; }
+.classic-item { flex: 1; background: #FAFAFA; border: 1pt solid #E0E0E0; border-radius: 4pt; padding: 5pt 6pt; text-align: center; }
+.classic-name { color: #2D2D2D; font-size: 8pt; font-weight: bold; margin: 0; }
+.limit-text { color: #999999; font-size: 7pt; margin: 4pt 0 0 0; font-style: italic; }
+.footer { position: absolute; bottom: 16pt; left: 50pt; right: 50pt; color: #999999; font-size: 9pt; border-top: 1pt solid #E0E0E0; padding-top: 6pt; display: flex; justify-content: space-between; }
+</style>
+</head>
+<body>
+<div class="accent-bar"></div>
+<div class="container">
+  <p class="section-num">Section 02 — Concepts de base</p>
+  <p class="section-title">Analyse des Séries Temporelles Industrielles</p>
+  <div class="specs">
+    <div class="spec"><p class="spec-title">Multivariées</p><p class="spec-desc">Dizaines à centaines de capteurs simultanés</p></div>
+    <div class="spec"><p class="spec-title">Non-stationnaires</p><p class="spec-desc">Conditions opérationnelles changeantes</p></div>
+    <div class="spec"><p class="spec-title">Déséquilibrées</p><p class="spec-desc">Les pannes sont des événements rares</p></div>
+    <div class="spec"><p class="spec-title">Bruitées</p><p class="spec-desc">Valeurs manquantes, drifts capteurs</p></div>
+  </div>
+  <div class="challenges-table">
+    <div class="ch-row ch-header"><p class="ch-label">Défi</p><p class="ch-impact">Impact en contexte fédéré</p></div>
+    <div class="ch-row"><p class="ch-label">Non-IID inter-clients</p><p class="ch-impact">Distributions différentes selon les sites industriels</p></div>
+    <div class="ch-row"><p class="ch-label">Longueurs variables</p><p class="ch-impact">Difficile à harmoniser sans centralisation</p></div>
+    <div class="ch-row"><p class="ch-label">Timestamps désynchronisés</p><p class="ch-impact">Agrégation temporelle complexe</p></div>
+    <div class="ch-row"><p class="ch-label">Concept drift local</p><p class="ch-impact">Un site peut « évolue » sans que les autres le sachent</p></div>
+  </div>
+  <p class="classic">Approches classiques :</p>
+  <div class="classic">
+    <div class="classic-item"><p class="classic-name">LSTM</p></div>
+    <div class="classic-item"><p class="classic-name">TCN</p></div>
+    <div class="classic-item"><p class="classic-name">Transformer</p></div>
+    <div class="classic-item"><p class="classic-name">TSD</p></div>
+  </div>
+  <p class="limit-text">Limite partagée : entraînement spécifique à chaque domaine — pas de généralisation cross-domaine</p>
+</div>
+<div class="footer"><p><span>06</span><span>Rapport d'avancement de thèse — Y. AMMOURI</span></p></div>
+</body>
+</html>

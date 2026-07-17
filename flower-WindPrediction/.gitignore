@@ -1,0 +1,29 @@
+# Weights & Biases logs
+wandb/
+
+# Environment files with sensitive information
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ML/FL results
+fl_metrics/
+*.weights.h5
+results.json
+summary.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+.venv
