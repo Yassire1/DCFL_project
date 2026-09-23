@@ -1,8 +1,0 @@
-[
-  {"key": "VUVBGKY7", "title": "Federated Trace: A Node Selection Method for More Efficient Federated Learning", "note": "FL only; FL optimization paper with no domain application (TS mentioned only for 'training trace' concept, not time series analysis)"},
-  {"key": "H9DX2Y4Y", "title": "Research on the Design and Implementation of Intelligent Procurement System Based on Big Data Analysis", "note": "TS (LSTM prediction) only; FL mentioned only as future direction; manufacturing procurement context"},
-  {"key": "X3NALAQP", "title": "Deep Learning \u2013Based Traffic Density Estimation And Analysis", "note": "TS only (LSTM/GRU); FL mentioned only as future upgrade; computer vision focus"},
-  {"key": "5ZC8669C", "title": "Time-Frequency Collaborative Learning for Imbalanced Ship Motion Data With Missing Labels in Sea State Estimation", "note": "TS (time-frequency analysis for ship motion); collaborative learning but not FL; maritime domain adjacent to industrial monitoring"},
-  {"key": "GD4IYATT", "title": "Research on Power Grid Data Governance Technology Based on Artificial Intelligence Algorithms", "note": "TS (ARIMA+CNN for power grid data); FL mentioned only as future exploration; industrial/power grid context"},
-  {"key": "AKWTS9GP", "title": "A Hybrid Machine Learning and Deep Learning Model for Time-Series Groundwater Level Prediction", "note": "TS only; FL mentioned only as future work; environmental monitoring context"}
-]
